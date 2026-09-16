@@ -1,6 +1,7 @@
 ---
 name: Seongwook Choi, Ph.D.
 role: Assistant Professor · Principal Investigator
+hobbies: Workout · Soccer · Running · Golf
 affiliation: School of Health and Environmental Science · Korea University
 order: 1
 photo: /assets/img/people/seongwook-choi.jpg
@@ -50,6 +51,27 @@ He received his Ph.D. in Convergence IT Engineering from POSTECH under the super
     <span>2013-2018</span>
     <h3>B.S. · Mechanical Engineering</h3>
     <p><strong>POSTECH</strong>, Republic of Korea</p>
+  </div>
+</div>
+
+## Teaching
+
+<div class="teaching-grid">
+  <div class="teaching-card">
+    <span>UNDERGRADUATE</span>
+    <h3>Undergraduate Courses</h3>
+    <ul>
+      <li>Health Physics</li>
+      <li>Science of Radiology</li>
+    </ul>
+  </div>
+  <div class="teaching-card">
+    <span>GRADUATE</span>
+    <h3>Graduate Courses</h3>
+    <ul>
+      <li>Medical Imaging System</li>
+      <li>Artificial Intelligence in Medical Imaging</li>
+    </ul>
   </div>
 </div>
 

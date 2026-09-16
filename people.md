@@ -19,6 +19,9 @@ permalink: /people/
     {% endif %}
     <strong>{{ member.name }}</strong>
     <div class="member-role">{{ member.role }}</div>
+    {% if member.hobbies %}
+      <div class="member-hobbies"><span aria-hidden="true">⚡</span>{{ member.hobbies }}</div>
+    {% endif %}
   </a>
 {% endfor %}
   <div class="member-card recruiting-card">

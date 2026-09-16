@@ -13,8 +13,8 @@ permalink: /join/
 
     <p class="join-lead">
       MAI Lab welcomes undergraduate researchers, M.S./Ph.D. students, and collaborators
-      interested in biomedical imaging, acoustics, radiation science, signal/image processing,
-      system development, and AI.
+      who want to develop biomedical imaging technologies and use them to quantitatively understand
+      disease progression, physiological change, and biological responses to treatment and stimulation.
     </p>
 
     <div class="join-ko-intro" lang="ko">

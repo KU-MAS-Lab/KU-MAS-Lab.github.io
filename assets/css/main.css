@@ -1019,3 +1019,45 @@ h3 { font-size: 1.08rem; }
   }
 
 }
+
+
+/* People card hobbies and PI teaching */
+.member-hobbies {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .38rem;
+  margin-top: .65rem;
+  color: #777;
+  font-size: .76rem;
+  line-height: 1.4;
+}
+.member-hobbies span {
+  color: var(--crimson);
+  font-size: .82rem;
+}
+.teaching-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+.teaching-card {
+  padding: 1.2rem 1.3rem;
+  border: 1px solid var(--line);
+  border-radius: .75rem;
+  background: linear-gradient(135deg, #fff 0%, #fbf6f8 100%);
+}
+.teaching-card > span {
+  color: var(--crimson);
+  font-size: .72rem;
+  font-weight: 750;
+  letter-spacing: .11em;
+}
+.teaching-card h3 { margin: .35rem 0 .65rem; }
+.teaching-card ul { margin: 0; padding-left: 1.15rem; color: #555; }
+.teaching-card li + li { margin-top: .25rem; }
+
+@media (max-width: 620px) {
+  .teaching-grid { grid-template-columns: 1fr; }
+}
