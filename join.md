@@ -13,8 +13,8 @@ permalink: /join/
 
     <p class="join-lead">
       MAI Lab welcomes undergraduate researchers, M.S./Ph.D. students, and collaborators
-      who want to develop biomedical imaging technologies and use them to quantitatively understand
-      disease progression, physiological change, and biological responses to treatment and stimulation.
+      who want to engineer biomedical imaging and acoustic-stimulation technologies and use them to quantitatively understand
+      disease progression, physiological change, and biological responses to treatment, stimulation, and rehabilitation.
     </p>
 
     <div class="join-ko-intro" lang="ko">
@@ -28,8 +28,9 @@ permalink: /join/
       공학·물리 분야에 관심이 있다면
       광음향·초음파·방사선음향 영상 시스템, 센서 및 계측, 신호·영상처리, AI 연구에 참여할 수 있습니다.
       생명과학·보건·재활 분야에 관심이 있다면
-      뇌혈관 및 신경계 질환, 종양, biodynamics, 질병 기전,
-      초음파 기반 신경자극, 치료·재활 모니터링 등의 biomedical application을 함께 연구할 수 있습니다.
+      뇌혈관 및 신경계 질환, 종양, biodynamics, 질병 기전 연구에 참여할 수 있습니다.
+      또한 초음파의 주파수·강도·펄스 조건을 설계하고 최적화하여 신경자극 효과를 비교하거나,
+      치료·재활 전후의 생체 반응을 정량적으로 모니터링하는 biomedical application을 함께 연구할 수 있습니다.
       <br><br>
     
       <strong>새로운 기술을 만드는 것과, 그 기술로 새로운 생물학적 질문에 답하는 것</strong>
@@ -51,7 +52,7 @@ permalink: /join/
 
     <p class="section-intro">
       Students can participate in projects spanning the full imaging pipeline,
-      from physical system development to quantitative biomedical applications.
+      from physical system and stimulation-protocol development to quantitative biomedical applications.
     </p>
 
     <div class="project-track-grid">
@@ -99,12 +100,12 @@ permalink: /join/
         <div class="project-track-number">04</div>
         <h3>Preclinical &amp; Translational Applications</h3>
         <p>
-          Disease models, treatment monitoring, biodynamics,
-          and quantitative imaging biomarkers.
+          Engineering imaging and acoustic-stimulation protocols to quantify disease progression,
+          physiological dynamics, treatment response, neuromodulation, and rehabilitation outcomes.
         </p>
         <p class="project-track-ko" lang="ko">
-          질환 모델과 치료 반응을 영상화하고, 체내 동태와
-          정량 바이오마커를 분석합니다.
+          영상 및 음향 자극 조건을 설계·최적화하고, 질환의 진행과 생리적 변화,
+          치료·신경자극·재활에 대한 생체 반응을 정량화합니다.
         </p>
       </div>
 
@@ -130,14 +131,17 @@ permalink: /join/
       <span>Radiation Science</span>
       <span>Medical AI</span>
       <span>Hardware &amp; Instrumentation</span>
-      <span>Animal &amp; Translational Research</span>
+      <span>Physiology &amp; Disease Models</span>
+      <span>Ultrasound Stimulation &amp; Neuromodulation</span>
+      <span>Treatment &amp; Rehabilitation Monitoring</span>
     </div>
 
     <p class="join-ko-text" lang="ko">
       다음 중 하나라도 흥미가 있다면 잘 맞을 수 있습니다:
       MATLAB/Python/C/CUDA 코딩, 영상장비 제작, 초음파/광음향,
-      방사선, 의료영상 AI, 동물실험 및 질환 응용,
-      또는 새로운 의료기기를 직접 구현하는 연구.
+      방사선, 의료영상 AI, 생리·질환 모델, 동물 및 중개연구,
+      초음파 자극 조건 최적화, 치료·재활 반응 모니터링,
+      또는 새로운 의료기기와 정량 측정법을 직접 구현하는 연구.
     </p>
 
   </section>

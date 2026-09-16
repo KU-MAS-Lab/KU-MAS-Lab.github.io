@@ -48,10 +48,10 @@ permalink: /
   <article class="focus-card focus-card-visual">
     <img class="focus-image" src="{{ '/assets/img/research/tumor-progression.jpg' | relative_url }}" alt="Longitudinal photoacoustic monitoring of tumor progression and quantitative biomarkers">
     <div class="focus-body">
-      <div class="focus-number">04 · DISEASE MONITORING &amp; BIOMARKERS</div>
-      <h3>Disease Monitoring &amp; Quantitative Biomarkers</h3>
-      <p>Longitudinal imaging of disease progression and treatment response, translating vascular, functional, and molecular information into measurable imaging biomarkers.</p>
-      <p class="card-ko" lang="ko">질환의 진행과 치료 반응을 반복 영상화하고, 혈관 구조·산소화·체내 동태 등의 정보를 정량 바이오마커로 연결합니다.</p>
+      <div class="focus-number">04 · PRECLINICAL &amp; TRANSLATIONAL APPLICATIONS</div>
+      <h3>Biomedical Monitoring &amp; Acoustic Stimulation</h3>
+      <p>Engineering imaging and acoustic-stimulation protocols to quantify disease progression, physiological dynamics, treatment response, neuromodulation, and rehabilitation outcomes.</p>
+      <p class="card-ko" lang="ko">질환의 진행과 생리적 변화, 치료·재활 반응을 반복 측정하고, 초음파 자극 조건을 최적화하여 생체 반응을 정량화합니다.</p>
     </div>
   </article>
 </div>
@@ -60,7 +60,7 @@ permalink: /
   <div>
     <span class="eyebrow">FOR STUDENTS</span>
     <h2>Build imaging systems, algorithms, and biomedical applications with us.</h2>
-    <p lang="ko">영상장비 개발, MATLAB/Python/CUDA 기반 신호·영상처리, 딥러닝, 방사선·광음향 영상, 동물·임상 응용에 관심 있는 학부연구생 및 대학원생을 환영합니다.</p>
+    <p lang="ko">영상장비 개발, MATLAB/Python/CUDA 기반 신호·영상처리, 딥러닝, 방사선·광음향 영상, 초음파 자극, 질환·치료·재활 반응의 정량 모니터링에 관심 있는 학부연구생 및 대학원생을 환영합니다.</p>
   </div>
   <a class="btn btn-primary" href="{{ '/join/' | relative_url }}">Join Us</a>
 </div>

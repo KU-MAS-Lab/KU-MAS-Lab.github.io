@@ -53,10 +53,10 @@ permalink: /research/
     <img src="{{ '/assets/img/research/brain-angiogram-so2.jpg' | relative_url }}" alt="Whole-brain angiogram and oxygen saturation">
   </div>
   <div class="research-band-copy">
-    <span class="eyebrow">04 · BIOMEDICAL APPLICATIONS</span>
-    <h2>Disease Monitoring &amp; Quantitative Biomarkers</h2>
-    <p>We apply these technologies to cerebrovascular and fluid dynamics, oncology, pharmacokinetics, treatment-response assessment, and preclinical/clinical collaborations. The aim is not only to make images, but to derive measurements that can track disease and therapy longitudinally.</p>
-    <p class="research-ko" lang="ko"><strong>응용 방향:</strong> 뇌혈관·뇌척수액, 종양 미세환경, 약물전달, 방사선치료 모니터링 등에서 새로운 영상 바이오마커를 발굴하고 검증합니다.</p>
+    <span class="eyebrow">04 · PRECLINICAL &amp; TRANSLATIONAL APPLICATIONS</span>
+    <h2>Biomedical Monitoring &amp; Acoustic Stimulation</h2>
+    <p>We engineer and apply imaging and acoustic-stimulation protocols to quantify cerebrovascular and fluid dynamics, oncology, pharmacokinetics, disease progression, treatment response, neuromodulation, and rehabilitation outcomes. The aim is not only to make images or deliver stimulation, but to optimize physical parameters and derive repeatable biomarkers of biological response.</p>
+    <p class="research-ko" lang="ko"><strong>응용 방향:</strong> 뇌혈관·뇌척수액, 종양 미세환경, 약물전달, 치료 반응을 반복 영상화하고, 초음파의 주파수·강도·펄스 조건에 따른 신경자극 및 재활 반응을 정량 비교하여 새로운 바이오마커를 발굴·검증합니다.</p>
   </div>
 </section>
 
@@ -169,7 +169,7 @@ permalink: /research/
       <h2>Research Collaborators &amp; Networks</h2>
     </div>
   </div>
-  <p class="collab-intro">MAI Lab grows through project-level collaborations across biomedical imaging, radiology, nuclear medicine, nanotechnology, and translational science.</p>
+  <p class="collab-intro">MAI Lab grows through project-level collaborations across biomedical imaging, radiology, nuclear medicine, nanotechnology, neuroscience, rehabilitation, and translational science.</p>
   <p class="collab-intro collab-intro-ko" lang="ko">국내외 연구진과의 공동연구를 통해 영상 시스템 개발부터 AI, 전임상·임상 검증까지 연구 범위를 확장합니다.</p>
 
   <div class="collab-grid" aria-label="Research collaborator institutions">
