@@ -1,8 +1,23 @@
 ---
 layout: default
 ---
-<article class="prose narrow">
-  <p class="eyebrow">NEWS · {{ page.date | date: "%Y.%m.%d" }}</p>
-  <h1>{{ page.title }}</h1>
-  {{ content }}
+<article class="news-article">
+  <header class="news-article-header">
+    <p class="eyebrow">NEWS · {{ page.date | date: "%Y.%m.%d" }}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="news-article-subtitle">{{ page.subtitle }}</p>{% endif %}
+  </header>
+
+  {% if page.image %}
+    <figure class="news-hero-image">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}">
+      {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
+    </figure>
+  {% endif %}
+
+  <div class="news-article-content prose">
+    {{ content }}
+  </div>
+
+  <a class="news-back-link" href="{{ '/news/' | relative_url }}">← Back to all news</a>
 </article>

@@ -134,10 +134,18 @@ permalink: /
 <div class="news-grid">
 {% assign sorted_news = site.news | sort: 'date' | reverse %}
 {% for post in sorted_news limit:3 %}
-  <a class="news-card" href="{{ post.url | relative_url }}">
-    <div class="news-date">{{ post.date | date: "%Y.%m" }}</div>
-    <h3>{{ post.title }}</h3>
-    <div class="muted">{{ post.excerpt | strip_html | truncatewords: 20 }}</div>
+  <a class="news-card{% unless post.image %} news-card-text-only{% endunless %}" href="{{ post.url | relative_url }}">
+    {% if post.image %}
+      <div class="news-card-media">
+        <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title }}" loading="lazy">
+      </div>
+    {% endif %}
+    <div class="news-card-body">
+      <div class="news-date">{{ post.date | date: "%Y.%m" }}</div>
+      <h3>{{ post.title }}</h3>
+      <div class="muted">{{ post.excerpt | strip_html | truncatewords: 20 }}</div>
+      <span class="news-read-more">Read story →</span>
+    </div>
   </a>
 {% endfor %}
 </div>
