@@ -1179,3 +1179,31 @@ h3 { font-size: 1.08rem; }
   .news-hero-image { border-radius: .75rem; }
   .news-article-subtitle { font-size: 1rem; }
 }
+
+
+/* Inline photography within News stories */
+.news-inline-figure {
+  margin: 2.2rem 0;
+  overflow: hidden;
+  border-radius: .9rem;
+  border: 1px solid rgba(138,21,56,.12);
+  background: #f5f3f4;
+}
+.news-inline-figure a {
+  display: block;
+  line-height: 0;
+}
+.news-inline-figure img {
+  width: 100%;
+  display: block;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+.news-inline-figure figcaption {
+  padding: .72rem .9rem;
+  color: #777;
+  background: #fff;
+  font-size: .75rem;
+  line-height: 1.5;
+}
+.news-ko p + p { margin-top: .9rem; }
