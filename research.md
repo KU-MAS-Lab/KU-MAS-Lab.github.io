@@ -7,7 +7,7 @@ permalink: /research/
 <p class="eyebrow">RESEARCH</p>
 # Research at MAS Lab
 
-<p class="research-lead">MAS Lab develops multimodal acoustic imaging technologies that bridge <strong>biomedical imaging, radiation science, and computational imaging</strong>. Our central question is simple: how can energy deposition and acoustic propagation be converted into reliable, quantitative information about biological systems?</p>
+<p class="research-lead">MAS Lab develops multimodal acoustic systems that bridge <strong>biomedical imaging, radiation science, and computational imaging</strong>. Our central question is simple: how can energy deposition and acoustic propagation be converted into reliable, quantitative information about biological systems?</p>
 
 <p class="ko-summary" lang="ko">MAS Lab의 연구는 “어떤 에너지가 조직에 전달되고 → 어떤 음향신호가 발생하며 → 그 신호에서 어떤 정량 정보를 복원할 수 있는가?”라는 공통 질문에서 출발합니다. 하드웨어부터 재구성, AI, 생체 응용까지 하나의 imaging pipeline으로 연결합니다.</p>
 

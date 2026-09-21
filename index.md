@@ -3,8 +3,8 @@ layout: home
 permalink: /
 ---
 
-<p class="intro"><strong>MAS Lab</strong> develops multimodal acoustic imaging technologies for biomedical measurement, visualization, and quantitative analysis. We integrate imaging physics, instrumentation, signal/image processing, and computational methods to make acoustic imaging more informative, quantitative, and accessible.</p>
-<p class="ko-summary" lang="ko"><strong>MAS Lab (멀티모달 음향시스템 연구실)</strong>은 소리로 생체와 에너지 전달을 관찰하는 새로운 영상 기술을 연구합니다. 학부연구생부터 대학원생까지, 하드웨어·신호처리·AI·전임상 응용을 함께 경험하며 하나의 영상 시스템을 처음부터 끝까지 만들어가는 연구를 지향합니다.</p>
+<p class="intro"><strong>MAS Lab</strong> develops multimodal acoustic systems for biomedical imaging, quantitative measurement, and controlled stimulation. We integrate physics, instrumentation, signal/image processing, and artificial intelligence to build systems that reveal biological structure, function, and responses.</p>
+<p class="ko-summary" lang="ko"><strong>MAS Lab (멀티모달 음향시스템 연구실)</strong>은 소리와 다양한 물리적 에너지를 활용해 생체를 영상화하고, 정량적으로 측정하며, 자극하는 시스템을 연구합니다. 학부연구생부터 대학원생까지, 하드웨어·신호처리·AI·전임상 응용을 함께 경험하며 하나의 음향 시스템을 설계부터 생체 응용까지 연결하는 연구를 지향합니다.</p>
 
 <div class="section-head">
   <div>
