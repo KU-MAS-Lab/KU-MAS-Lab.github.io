@@ -120,10 +120,9 @@ permalink: /
     <a href="{{ '/research/#collaborators' | relative_url }}">Collaborative network →</a>
   </div>
   <div class="collab-grid collab-grid-home">
-    <div class="collab-card collab-stanford"><div class="collab-mark">Stanford</div><span>Stanford University</span></div>
-    <div class="collab-card collab-postech"><div class="collab-mark">POSTECH</div><span>POSTECH</span></div>
-    <div class="collab-card collab-snuh"><div class="collab-mark">SNUH</div><span>Seoul National University Hospital</span></div>
-    <div class="collab-card collab-kist"><div class="collab-mark">KIST</div><span>Korea Institute of Science and Technology</span></div>
+    <div class="collab-card collab-stanford"><img class="collab-logo" src="{{ '/assets/img/collaborators/stanford-university.png' | relative_url }}" alt="Stanford University logo"><span>Stanford University</span></div>
+    <div class="collab-card collab-postech"><img class="collab-logo" src="{{ '/assets/img/collaborators/postech.png' | relative_url }}" alt="POSTECH logo"><span>POSTECH</span></div>
+    <div class="collab-card collab-snuh"><img class="collab-logo" src="{{ '/assets/img/collaborators/snuh.png' | relative_url }}" alt="Seoul National University Hospital logo"><span>Seoul National University Hospital</span></div>
   </div>
 </section>
 

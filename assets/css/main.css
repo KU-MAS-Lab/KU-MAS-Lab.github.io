@@ -681,7 +681,7 @@ h3 { font-size: 1.08rem; }
 .collab-intro-ko { margin-top: -.2rem; }
 .collab-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0,1fr));
+  grid-template-columns: repeat(3, minmax(0,1fr));
   gap: .8rem;
   margin-top: 1rem;
 }
@@ -706,21 +706,22 @@ h3 { font-size: 1.08rem; }
   border-color: rgba(138,21,56,.3);
   box-shadow: 0 10px 26px rgba(30,0,8,.07);
 }
-.collab-mark {
-  font-weight: 800;
-  line-height: 1;
-  letter-spacing: -.03em;
-  font-size: 1.45rem;
+.collab-logo {
+  display: block;
+  max-width: min(100%, 210px);
+  width: auto;
+  height: auto;
+  max-height: 64px;
+  object-fit: contain;
 }
 .collab-card > span {
   color: #777;
   font-size: .72rem;
   line-height: 1.3;
 }
-.collab-stanford .collab-mark { color: #8c1515; font-family: Georgia, "Times New Roman", serif; font-weight: 700; }
-.collab-postech .collab-mark { color: #a61955; font-size: 1.65rem; font-style: italic; letter-spacing: -.055em; }
-.collab-snuh .collab-mark { color: #0c4a78; letter-spacing: .02em; }
-.collab-kist .collab-mark { color: #124b7d; letter-spacing: .015em; }
+.collab-stanford .collab-logo { max-height: 72px; }
+.collab-postech .collab-logo { max-width: 220px; }
+.collab-snuh .collab-logo { max-width: 190px; }
 .collab-disclaimer {
   margin-top: .75rem;
   color: #8a8a8a;
