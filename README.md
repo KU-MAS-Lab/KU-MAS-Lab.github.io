@@ -1,54 +1,18 @@
-# MAI Lab GitHub Pages Starter
+# MAS Lab website
 
-A Jekyll + GitHub Actions starter for the **Multimodal Acoustic Imaging Laboratory (MAI Lab)** at Korea University.
+Multimodal Acoustic Systems Laboratory (멀티모달 음향시스템 연구실), Korea University.
 
-## 1. Replace the placeholders
+Jekyll site deployed to GitHub Pages through `.github/workflows/pages.yml`.
 
-- `_config.yml`
-  - `url`
-  - `email`
-  - `address`
-- `_members/seongwook-choi.md`
-  - email, biography, photo
-- `join.md`
-  - contact email
+## Branding
+- `assets/img/mas-logo.png`: approved transparent full wordmark.
+- `assets/img/mas-mark.png`: matching transparent MA and signal symbol.
+- `assets/img/mas-favicon.png`: 64 px favicon.
 
-## 2. Add visual assets
+## Local build
+Run `bundle install`, then `bundle exec jekyll build`.
 
-Put these files in `assets/img/`:
+## Address migration
+The live address remains https://korea-mai-lab.github.io until the account and repository migration is completed. Do not change `_config.yml` URL before the new address is active.
 
-- `mai-logo.png` — transparent MAI Lab logo/wordmark
-- `hero.jpg` — optional research/lab hero image
-- member photos as needed
-
-`branding-reference.png` is the uploaded MAI branding collage and is included only as a reference; it is not used by the website.
-
-## 3. Local preview
-
-Install Ruby 3.2+, then:
-
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-Open `http://127.0.0.1:4000`.
-
-## 4. GitHub Pages deployment
-
-1. Create a GitHub organization or use your personal account.
-2. For an organization site, create a repository named `<ORG>.github.io`.
-3. Push these files to the `main` branch.
-4. Go to **Settings → Pages → Build and deployment → Source → GitHub Actions**.
-5. The included workflow builds and deploys the site whenever `main` changes.
-
-## 5. Routine updates
-
-- New member: add a Markdown file under `_members/`.
-- New news item: add a Markdown file under `_news/`.
-- New paper: add a BibTeX entry to `_bibliography/publications.bib`.
-- Change colors/layout: edit `assets/css/main.css`.
-
-## Design notes
-
-The layout is inspired by modern academic-lab GitHub Pages sites: sticky navigation, a large hero, concise research cards, Markdown-driven member/news collections, and BibTeX-driven publications. It is an original implementation and does not copy another site's source files.
+For the proposed korea-mas-lab.github.io address, confirm username availability, rename the account to Korea-MAS-lab, rename the repository to Korea-MAS-lab.github.io, update the URL in `_config.yml`, and redeploy. Check GitHub App access after renaming. Repository redirects are not a replacement for website redirects; check previously distributed QR codes and links.

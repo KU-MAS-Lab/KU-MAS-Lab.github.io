@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 <div class="page prose">
-<p class="eyebrow">ABOUT MAI LAB</p>
-# Multimodal Acoustic Imaging Laboratory
+<p class="eyebrow">ABOUT MAS LAB</p>
+# Multimodal Acoustic Systems Laboratory
 
-MAI Lab explores how acoustic waves can serve as a common language for biomedical measurement, imaging, and controlled stimulation. We develop engineering systems and computational methods that connect **energy deposition or acoustic stimulation → wave generation and propagation → signal acquisition → image reconstruction → quantitative interpretation of biological structure, function, and response**.
+MAS Lab explores how acoustic waves can serve as a common language for biomedical measurement, imaging, and controlled stimulation. We develop engineering systems and computational methods that connect **energy deposition or acoustic stimulation → wave generation and propagation → signal acquisition → image reconstruction → quantitative interpretation of biological structure, function, and response**.
 
-<p class="ko-summary" lang="ko">MAI Lab은 광, 초음파, 방사선 등 서로 다른 물리적 에너지와 음향파를 이용하여 생체 구조와 기능, 분자 동태, 에너지 침적을 정량적으로 측정하는 연구실입니다. 영상 시스템과 음향 자극 조건을 공학적으로 설계하고, 질환의 진행과 생리적 변화, 치료·자극·재활에 대한 생체 반응을 반복 가능하고 해석 가능한 정량 지표로 만드는 것을 목표로 합니다.</p>
+<p class="ko-summary" lang="ko">MAS Lab은 광, 초음파, 방사선 등 서로 다른 물리적 에너지와 음향파를 이용하여 생체 구조와 기능, 분자 동태, 에너지 침적을 정량적으로 측정하는 연구실입니다. 영상 시스템과 음향 자극 조건을 공학적으로 설계하고, 질환의 진행과 생리적 변화, 치료·자극·재활에 대한 생체 반응을 반복 가능하고 해석 가능한 정량 지표로 만드는 것을 목표로 합니다.</p>
 
 ## Our approach
 

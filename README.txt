@@ -1,4 +1,4 @@
-MAI Lab publication formatting patch
+MAS Lab publication formatting patch
 
 Replace only these two files in your current GitHub repository:
 1. publications.md

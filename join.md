@@ -6,20 +6,20 @@ permalink: /join/
 
 <div class="page join-page">
 
-  <p class="eyebrow">JOIN MAI LAB</p>
+  <p class="eyebrow">JOIN MAS LAB</p>
 
   <section class="join-hero">
     <h1>We are looking for curious builders.</h1>
 
     <p class="join-lead">
-      MAI Lab welcomes undergraduate researchers, M.S./Ph.D. students, and collaborators
+      MAS Lab welcomes undergraduate researchers, M.S./Ph.D. students, and collaborators
       who want to engineer biomedical imaging and acoustic-stimulation technologies and use them to quantitatively understand
       disease progression, physiological change, and biological responses to treatment, stimulation, and rehabilitation.
     </p>
 
     <div class="join-ko-intro" lang="ko">
       <strong>학부연구생 및 대학원생을 모집합니다.</strong>
-      현재 전공이나 연구 경험이 MAI Lab의 연구와 완벽히 일치하지 않아도 괜찮습니다.
+      현재 전공이나 연구 경험이 MAS Lab의 연구와 완벽히 일치하지 않아도 괜찮습니다.
       우리는 새로운 영상기술을 직접 개발하고,
       이를 이용해 <strong>질병의 진행, 생리적 변화, 치료 및 자극에 대한 생체 반응을
       정량적으로 이해하는 연구</strong>를 수행합니다.
@@ -153,7 +153,7 @@ permalink: /join/
 
       <div>
         <p class="section-kicker">HOW TO APPLY</p>
-        <h2>Interested in joining MAI Lab?</h2>
+        <h2>Interested in joining MAS Lab?</h2>
 
         <p>
           Please send a short introduction, your CV, research interests,

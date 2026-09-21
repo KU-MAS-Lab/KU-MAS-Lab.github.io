@@ -1,6 +1,6 @@
 # Research image sources
 
-These website images were extracted from figures in publications co-authored by Seongwook Choi for use on the MAI Lab academic website. The website displays source/DOI information alongside the representative-work gallery.
+These website images were extracted from figures in publications co-authored by Seongwook Choi for use on the MAS Lab academic website. The website displays source/DOI information alongside the representative-work gallery.
 
 - `csf-depth.jpg`, `csf-flow.jpg`: Choi et al., Nature Communications 17, 2677 (2026). DOI: 10.1038/s41467-026-69390-4. CC BY 4.0.
 - `brain-angiogram-so2.jpg`, `stroke-so2.jpg`: Kim et al., Advanced Science 12, 2409361 (2025). DOI: 10.1002/advs.202409361. CC BY 4.0.
