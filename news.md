@@ -6,7 +6,7 @@ permalink: /news/
 <div class="page news-page">
 <p class="eyebrow">NEWS</p>
 # Lab News
-<p class="news-page-lead">Updates from MAI Lab—research, people, academic activities, and the communities we learn from.</p>
+<p class="news-page-lead">Updates from MAS Lab—research, people, academic activities, and the communities we learn from.</p>
 <div class="news-grid">
 {% assign sorted_news = site.news | sort: 'date' | reverse %}
 {% for post in sorted_news %}

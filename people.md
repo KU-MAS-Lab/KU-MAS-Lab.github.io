@@ -6,7 +6,7 @@ permalink: /people/
 <div class="page">
 <p class="eyebrow">PEOPLE</p>
 # Our Team
-<p class="ko-summary" lang="ko">MAI Lab은 영상물리, 하드웨어, 신호·영상처리, AI, biomedical application이 서로 연결되는 연구를 함께 만들어갑니다.</p>
+<p class="ko-summary" lang="ko">MAS Lab은 영상물리, 하드웨어, 신호·영상처리, AI, biomedical application이 서로 연결되는 연구를 함께 만들어갑니다.</p>
 <div class="member-grid">
 {% assign sorted_members = site.members | sort: 'order' %}
 {% for member in sorted_members %}
@@ -40,11 +40,11 @@ permalink: /people/
     </p>
 
     <p class="recruiting-ko">
-      MAI Lab에서 함께 연구할 학부연구생 및 대학원생을 모집합니다.
+      MAS Lab에서 함께 연구할 학부연구생 및 대학원생을 모집합니다.
     </p>
 
     <a class="recruiting-link" href="{{ '/join/' | relative_url }}">
-      Join MAI Lab →
+      Join MAS Lab →
     </a>
   </div>
 </div>

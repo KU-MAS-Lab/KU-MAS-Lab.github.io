@@ -1,4 +1,4 @@
-MAI Lab v3.2 update
+MAS Lab v3.2 update
 
 Upload/replace these paths in your existing GitHub repository:
 
@@ -18,7 +18,7 @@ No changes are required to:
 - _config.yml
 - .github/workflows/pages.yml
 - People/profile files
-- MAI logo assets
+- MAS logo assets
 
 Design choices in v3.2:
 - Corrected HD-PACT figure using Figure 3 from the actual hybrid diffusion paper.

@@ -1,6 +1,6 @@
 # Publication cover assets
 
-These cover images were supplied by Seongwook Choi for display on the MAI Lab academic website.
+These cover images were supplied by Seongwook Choi for display on the MAS Lab academic website.
 
 - `chemical-reviews-2023-cover.jpeg` — Chemical Reviews, Vol. 123, No. 11 (2023), associated with “Recent Advances in Contrast-Enhanced Photoacoustic Imaging: Overcoming the Physical and Practical Challenges.” Displayed as supplied.
 - `advanced-science-dlpact-2023-back-cover.jpg` — Advanced Science, Vol. 10, No. 1 (2023), back cover associated with DL-PACT. Displayed as supplied.

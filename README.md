@@ -1,6 +1,6 @@
-# MAI Lab GitHub Pages Starter
+# MAS Lab GitHub Pages Starter
 
-A Jekyll + GitHub Actions starter for the **Multimodal Acoustic Imaging Laboratory (MAI Lab)** at Korea University.
+A Jekyll + GitHub Actions starter for the **Multimodal Acoustic Systems Laboratory (MAS Lab)** at Korea University.
 
 ## 1. Replace the placeholders
 
@@ -17,7 +17,7 @@ A Jekyll + GitHub Actions starter for the **Multimodal Acoustic Imaging Laborato
 
 Put these files in `assets/img/`:
 
-- `mai-logo.png` — transparent MAI Lab logo/wordmark
+- `mai-logo.png` — transparent MAS Lab logo/wordmark
 - `hero.jpg` — optional research/lab hero image
 - member photos as needed
 
