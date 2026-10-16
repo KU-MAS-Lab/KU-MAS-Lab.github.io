@@ -50,7 +50,7 @@ permalink: /research/
 
 <section class="research-band reverse">
   <div class="research-band-media">
-    <img src="{{ '/assets/img/research/brain-angiogram-so2.jpg' | relative_url }}" alt="Quantitative cerebrovascular imaging for monitoring biological response">
+    <img src="{{ '/assets/img/research/ultrasound-stimulation-therapy.webp' | relative_url }}" alt="Conceptual focused ultrasound stimulation and therapy with quantitative biological response monitoring">
   </div>
   <div class="research-band-copy">
     <span class="eyebrow">04 · ACOUSTIC INTERVENTION</span>
