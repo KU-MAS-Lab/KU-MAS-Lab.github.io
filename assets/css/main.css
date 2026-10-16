@@ -1208,3 +1208,24 @@ h3 { font-size: 1.08rem; }
   line-height: 1.5;
 }
 .news-ko p + p { margin-top: .9rem; }
+
+
+/* Keep the focused-ultrasound illustration fully visible across layouts. */
+.hero-focus-ai .ultrasound-visual {
+  object-fit: contain;
+  object-position: center;
+  background: #111;
+}
+.focus-card-visual .ultrasound-visual {
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+  background: #111;
+}
+.research-band-media > .ultrasound-visual {
+  width: 100%;
+  height: auto;
+  max-height: 410px;
+  object-fit: contain;
+  background: #111;
+}

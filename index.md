@@ -46,7 +46,7 @@ permalink: /
   </article>
 
   <article class="focus-card focus-card-visual">
-    <img class="focus-image" src="{{ '/assets/img/research/ultrasound-stimulation-therapy.jpg' | relative_url }}" alt="Conceptual focused ultrasound stimulation and therapy with quantitative biological response monitoring">
+    <img class="focus-image ultrasound-visual" src="{{ '/assets/img/research/ultrasound-stimulation-therapy.jpg' | relative_url }}" alt="Conceptual focused ultrasound stimulation and therapy with quantitative biological response monitoring">
     <div class="focus-body">
       <div class="focus-number">04 · ACOUSTIC INTERVENTION</div>
       <h3>Ultrasound Stimulation &amp; Therapy</h3>
