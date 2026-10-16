@@ -2,7 +2,7 @@
 
 These website images were extracted from figures in publications co-authored by Seongwook Choi for use on the MAS Lab academic website, except where explicitly identified as a conceptual illustration. The website displays source/DOI information alongside the representative-work gallery.
 
-- `ultrasound-stimulation-therapy.webp`: Conceptual illustration created for the MAS Lab website to represent focused ultrasound stimulation, neuromodulation/therapy, quantitative response monitoring, and rehabilitation-oriented outcomes. This is an illustrative research-direction graphic, not experimental data or a published figure.
+- `ultrasound-stimulation-therapy.jpg`: Conceptual illustration created for the MAS Lab website to represent focused ultrasound stimulation, neuromodulation/therapy, quantitative response monitoring, and rehabilitation-oriented outcomes. This is an illustrative research-direction graphic, not experimental data or a published figure.
 - `csf-depth.jpg`, `csf-flow.jpg`: Choi et al., Nature Communications 17, 2677 (2026). DOI: 10.1038/s41467-026-69390-4. CC BY 4.0.
 - `brain-angiogram-so2.jpg`, `stroke-so2.jpg`: Kim et al., Advanced Science 12, 2409361 (2025). DOI: 10.1002/advs.202409361. CC BY 4.0.
 - `hdpact-recovery.jpg`: Figure 3 structural-recovery panel from Jeong et al., Advanced Science 13, e13624 (2026). DOI: 10.1002/advs.202513624. CC BY 4.0. This v3.2 asset replaces the incorrect DL-PACT image used previously.
