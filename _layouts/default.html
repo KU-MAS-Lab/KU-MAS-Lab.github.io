@@ -15,8 +15,18 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="icon" type="image/png" href="{{ '/assets/img/mas-favicon.png' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  {% if page.url == '/' %}
+  <style>
+    .top-announcement { display: block; box-sizing: border-box; width: 100%; padding: 9px 12px; background: #8a1538; color: #fff; text-align: center; text-decoration: none; font-size: clamp(10px, 2.6vw, 14px); font-weight: 600; line-height: 1.5; white-space: nowrap; }
+    .top-announcement:hover { background: #6f102d; color: #fff; }
+    .top-announcement:focus-visible { outline: 3px solid #fff; outline-offset: -4px; }
+  </style>
+  {% endif %}
 </head>
 <body>
+  {% if page.url == '/' %}
+  <a class="top-announcement" lang="ko" href="{{ '/join/#winter-2027-internship' | relative_url }}">2027년 1월 시작 · 학부연구인턴 모집 — 자세히 보기 →</a>
+  {% endif %}
   <header class="site-header">{% include nav.html %}</header>
   <main class="site-main">
     {{ content }}
