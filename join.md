@@ -8,6 +8,25 @@ permalink: /join/
 
   <p class="eyebrow">JOIN MAS LAB</p>
 
+  <section class="join-section" id="winter-2027-internship" aria-labelledby="winter-internship-title">
+    <p class="section-kicker">UNDERGRADUATE RESEARCH · JANUARY 2027</p>
+    <h2 id="winter-internship-title">2027년 겨울방학 학부인턴 모집</h2>
+    <div lang="ko">
+      <p>MAS Lab에서 <strong>2027년 1월 겨울방학부터 연구에 참여할 학부인턴생</strong>을 모집합니다.
+      연구실의 연구에 관심이 있다면 간단한 자기소개와 관심 분야를 적어
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>로 연락해 주세요.</p>
+      <p>모집 인원이 제한되어 있어, 방학 중 단기 체험보다는 <strong>중장기적으로 연구에 참여하고 싶은 학생을 우선적으로 고려합니다.</strong>
+      구체적인 참여 기간과 일정은 면담을 통해 함께 논의할 수 있습니다.</p>
+      <p>당장 인턴 참여를 계획하고 있지 않더라도, 연구실이나 연구·진로에 관해 궁금한 점이 있다면 편하게 면담을 요청해 주세요.</p>
+    </div>
+    <p class="join-ko-text" lang="en">We welcome undergraduate interns to begin research in January 2027.
+      If interested, please email a brief introduction and your research interests to
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+      As places are limited, priority will be given to students interested in sustained research participation beyond a short winter placement.
+      The duration and schedule can be discussed at a meeting.
+      You are also welcome to get in touch for an informal conversation about our research or your academic interests, even if you are not currently planning an internship.</p>
+  </section>
+
   <section class="join-hero">
     <h1>We are looking for curious builders.</h1>
 
@@ -156,8 +175,8 @@ permalink: /join/
         <h2>Interested in joining MAS Lab?</h2>
 
         <p>
-          Please send a short introduction, your CV, research interests,
-          and the type of project you would like to explore.
+          Undergraduate applicants can start by emailing a brief introduction and their research interests.
+          Prospective graduate students and other applicants are welcome to include a CV and the type of project they would like to explore.
         </p>
 
         <p class="join-ko-text" lang="ko">
