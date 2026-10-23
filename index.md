@@ -58,11 +58,13 @@ permalink: /
 
 <div class="student-callout">
   <div>
-    <span class="eyebrow">FOR STUDENTS</span>
-    <h2>Build acoustic systems from radiation and imaging physics to biomedical monitoring and therapy.</h2>
-    <p lang="ko">방사선 유도 음향영상, 광음향·초음파 영상, MATLAB/Python/CUDA 기반 신호·영상처리, 정량 바이오마커, 초음파 자극·치료 연구에 관심 있는 학부연구생 및 대학원생을 환영합니다. AI는 이러한 연구 전반의 재구성·분석·정량화를 위한 핵심 도구로 활용합니다.</p>
+    <span class="eyebrow">UNDERGRADUATE RESEARCH · JANUARY 2027</span>
+    <h2>Undergraduate research opportunities — Winter 2027</h2>
+    <p lang="ko"><strong>2027년 1월 겨울방학부터 함께할 학부인턴생을 모집합니다.</strong>
+    모집 인원이 제한되어 중장기 연구 참여 희망자를 우선적으로 고려합니다.
+    관심 있는 학생은 간단한 자기소개와 관심 분야를 이메일로 보내주세요. 지원 전 연구·진로 면담도 환영합니다.</p>
   </div>
-  <a class="btn btn-primary" href="{{ '/join/' | relative_url }}">Join Us</a>
+  <a class="btn btn-primary" href="{{ '/join/#winter-2027-internship' | relative_url }}">모집 안내 · Join Us →</a>
 </div>
 
 <div class="section-head">
