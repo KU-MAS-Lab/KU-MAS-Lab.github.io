@@ -3,43 +3,112 @@ layout: default
 title: About
 permalink: /about/
 ---
-<div class="page prose">
-<p class="eyebrow">ABOUT MAS LAB</p>
-# Multimodal Acoustic Systems Laboratory
+<div class="page about-page">
+  <p class="eyebrow">ABOUT MAS LAB</p>
 
-MAS Lab develops acoustic systems that connect **radiation, light, and ultrasound** to quantitative imaging, disease monitoring, and therapeutic stimulation. Our research is grounded in a common engineering framework: **energy deposition or acoustic stimulation → wave generation and propagation → signal acquisition → reconstruction and analysis → quantitative interpretation of biological structure, function, and response**.
+  <header class="about-hero">
+    <h1>Multimodal Acoustic Systems Laboratory</h1>
+    <p class="about-tagline">Engineering acoustic systems to measure, interpret, and influence biology.</p>
+    <p class="about-intro">We connect radiation, light, and ultrasound through a shared engineering framework—from energy delivery and wave generation to signal acquisition, image reconstruction, and quantitative validation.</p>
+  </header>
 
-<p class="ko-summary" lang="ko">MAS Lab은 방사선·광·초음파를 하나의 음향 기반 공학 프레임으로 연결하여 생체 구조와 기능, 에너지 침적, 질환 변화, 치료 및 자극 반응을 정량적으로 측정하는 연구실입니다. 방사선 유도 음향영상과 광음향·초음파 영상을 핵심 기반으로 하며, 반복 측정 가능한 바이오마커와 초음파 기반 자극·치료 기술로 연구를 확장합니다.</p>
+  <p class="about-korean" lang="ko">MAS Lab은 방사선·광·초음파를 음향 기반 공학으로 연결해 생체의 구조와 기능, 질환 변화, 치료 및 자극 반응을 정량적으로 측정합니다. 반복 가능한 영상·바이오마커와 초음파 자극·치료 기술을 개발합니다.</p>
 
-## Our research priorities
+  <section class="about-pipeline" aria-label="Research pipeline">
+    <div><span>01</span><strong>Energy &amp; stimulation</strong></div>
+    <i aria-hidden="true">→</i>
+    <div><span>02</span><strong>Acoustic waves</strong></div>
+    <i aria-hidden="true">→</i>
+    <div><span>03</span><strong>Systems &amp; signals</strong></div>
+    <i aria-hidden="true">→</i>
+    <div><span>04</span><strong>Quantitative insight</strong></div>
+  </section>
 
-Our current research is organized around four connected directions:
+  <section class="about-section">
+    <div class="about-section-heading">
+      <p class="eyebrow">WHAT WE WORK ON</p>
+      <h2>Four connected research directions</h2>
+      <p>Systems engineering is the common thread: we design physics, hardware, acquisition, and analysis together.</p>
+    </div>
 
-**1. Radiation-Induced Acoustic Imaging & Dosimetry** — acoustic sensing and imaging of ionizing-radiation energy deposition, with emphasis on quantitative dosimetry and radiation-acoustic system development.
+    <div class="about-focus-grid">
+      <article class="about-focus-card">
+        <span class="about-card-number">01 / RADIATION ACOUSTICS</span>
+        <h3>Radiation-induced acoustic imaging</h3>
+        <ul>
+          <li>Image ionizing-radiation energy deposition through acoustic sensing.</li>
+          <li>Develop quantitative dosimetry and radiation-acoustic systems.</li>
+        </ul>
+      </article>
 
-**2. Photoacoustic & Ultrasound Imaging** — multimodal structural, functional, and molecular imaging using optical and acoustic contrast.
+      <article class="about-focus-card">
+        <span class="about-card-number">02 / IMAGING</span>
+        <h3>Photoacoustic &amp; ultrasound imaging</h3>
+        <ul>
+          <li>Build multimodal systems for structural, functional, and molecular imaging.</li>
+          <li>Improve acquisition, reconstruction, and image quality.</li>
+        </ul>
+      </article>
 
-**3. Disease Monitoring & Quantitative Biomarkers** — longitudinal measurement of vascular, physiological, molecular, and fluid-dynamic changes to derive repeatable biomarkers of disease progression and treatment response.
+      <article class="about-focus-card">
+        <span class="about-card-number">03 / QUANTIFICATION</span>
+        <h3>Disease monitoring &amp; biomarkers</h3>
+        <ul>
+          <li>Track vascular, physiological, molecular, and fluid-dynamic changes.</li>
+          <li>Measure disease progression and treatment response over time.</li>
+        </ul>
+      </article>
 
-**4. Ultrasound Stimulation & Therapy** — engineering ultrasound exposure and monitoring strategies for neuromodulation, therapeutic stimulation, rehabilitation, and quantitative assessment of biological response.
+      <article class="about-focus-card">
+        <span class="about-card-number">04 / STIMULATION</span>
+        <h3>Ultrasound stimulation &amp; therapy</h3>
+        <ul>
+          <li>Engineer ultrasound exposure for neuromodulation, therapy, and rehabilitation.</li>
+          <li>Quantify biological responses to stimulation.</li>
+        </ul>
+      </article>
+    </div>
+  </section>
 
-AI and computational imaging are used across all four directions as enabling tools for denoising, reconstruction, segmentation, inverse problems, uncertainty estimation, and quantitative analysis.
+  <section class="about-method">
+    <div>
+      <p class="eyebrow">HOW WE WORK</p>
+      <h2>From engineering design to biomedical evidence</h2>
+    </div>
+    <ol class="about-method-list">
+      <li><strong>Frame the measurement.</strong> Define the biological question and the signal needed to answer it.</li>
+      <li><strong>Build the system.</strong> Co-design imaging or stimulation physics, hardware, and data acquisition.</li>
+      <li><strong>Make it quantitative.</strong> Develop signal processing, reconstruction, and AI-assisted analysis.</li>
+      <li><strong>Validate the result.</strong> Test accuracy, repeatability, and usefulness in biomedical studies.</li>
+    </ol>
+    <p class="about-ai-note"><strong>Computational imaging and AI</strong> support denoising, reconstruction, segmentation, inverse problems, uncertainty estimation, and quantitative analysis across these directions.</p>
+  </section>
 
-## Our approach
+  <section class="about-bottom-grid">
+    <article class="about-info-card">
+      <p class="eyebrow">STUDENT EXPERIENCE</p>
+      <h2>Learn by building and measuring</h2>
+      <p>Students can take part in the full research pipeline and develop practical skills in:</p>
+      <ul class="about-skill-list">
+        <li>Radiation and ultrasound physics</li>
+        <li>Imaging systems and experiment design</li>
+        <li>Signal processing and image reconstruction</li>
+        <li>GPU computing, deep learning, and simulation</li>
+        <li>Quantitative analysis and preclinical validation</li>
+      </ul>
+    </article>
 
-We work across the full engineering pipeline:
-
-**Imaging/stimulation physics → Hardware & acquisition → Signal processing & reconstruction → AI-assisted analysis → Quantitative validation → Biomedical application**
-
-The lab emphasizes systems engineering: we do not treat hardware, algorithms, and biological applications as separate tasks. Instead, we design them together so that measurements remain physically interpretable, reproducible, and useful for biomedical questions.
-
-## What students learn
-
-Students can develop a broad engineering toolkit across radiation and ultrasound physics, imaging system construction, experiment design, signal processing, image reconstruction, GPU computing, deep learning, simulation, quantitative analysis, and preclinical validation.
-
-<p class="ko-summary" lang="ko">학부생과 대학원생은 실제 시스템을 구성하고 데이터를 획득한 뒤 신호처리·영상재구성·AI 분석·정량 검증까지 이어지는 전체 파이프라인을 경험할 수 있습니다. 특히 방사선, 광음향, 초음파, 자극·치료를 서로 분리된 주제가 아니라 공통된 음향 시스템 관점에서 배우고 연구합니다.</p>
-
-## Lab culture
-
-We value rigorous measurement, reproducible computation, open collaboration, clear communication, and research that connects fundamental physics and engineering with meaningful biomedical problems.
+    <article class="about-info-card about-culture-card">
+      <p class="eyebrow">LAB CULTURE</p>
+      <h2>Careful science, useful engineering</h2>
+      <p>We value:</p>
+      <ul class="about-values">
+        <li>Rigorous measurement</li>
+        <li>Reproducible computation</li>
+        <li>Open collaboration</li>
+        <li>Clear communication</li>
+        <li>Engineering with biomedical purpose</li>
+      </ul>
+    </article>
+  </section>
 </div>
