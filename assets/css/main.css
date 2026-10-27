@@ -1289,3 +1289,30 @@ h3 { font-size: 1.08rem; }
   .about-method { padding: 1.1rem; }
   .about-skill-list { columns: 1; }
 }
+
+
+/* About page spacing and workflow clarity refinement */
+.about-flow { margin: 2rem 0 0; }
+.about-flow > .eyebrow { margin: 0 0 .55rem; }
+.about-pipeline { grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr) auto minmax(0, 1fr) auto minmax(0, 1fr); margin: 0; padding: 1.2rem .9rem; }
+.about-pipeline div { display: grid; grid-template-columns: 2rem minmax(0, 1fr); align-items: center; gap: .55rem; text-align: left; }
+.about-pipeline span { display: grid; place-items: center; width: 2rem; height: 2rem; border: 1px solid rgba(138,21,56,.2); border-radius: 50%; background: var(--crimson-soft); color: var(--crimson); font-size: .68rem; font-weight: 800; letter-spacing: 0; }
+.about-pipeline strong { font-size: .82rem; line-height: 1.35; }
+.about-pipeline i { color: var(--crimson); font-size: 1.1rem; font-weight: 700; }
+.about-section { margin-top: 4rem; padding-top: 1.45rem; border-top: 1px solid var(--line); }
+.about-section-heading { margin-bottom: 1.35rem; }
+.about-method { margin-top: 4rem; }
+.about-bottom-grid { margin-top: 1.5rem; }
+@media (max-width: 760px) {
+  .about-flow { margin-top: 1.6rem; }
+  .about-pipeline { grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); }
+  .about-pipeline > i:nth-of-type(2) { display: none; }
+  .about-section { margin-top: 3.2rem; padding-top: 1.15rem; }
+  .about-method { margin-top: 3.2rem; }
+}
+@media (max-width: 560px) {
+  .about-pipeline { grid-template-columns: 1fr; gap: .6rem; }
+  .about-pipeline > i { display: none !important; }
+  .about-pipeline div { grid-template-columns: 2rem minmax(0, 1fr); }
+  .about-pipeline br { display: none; }
+}
