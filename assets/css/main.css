@@ -1305,8 +1305,8 @@ h3 { font-size: 1.08rem; }
 .about-bottom-grid { margin-top: 1.5rem; }
 @media (max-width: 760px) {
   .about-flow { margin-top: 1.6rem; }
-  .about-pipeline { grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); }
-  .about-pipeline > i:nth-of-type(2) { display: none; }
+  .about-pipeline { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .about-pipeline > i { display: none; }
   .about-section { margin-top: 3.2rem; padding-top: 1.15rem; }
   .about-method { margin-top: 3.2rem; }
 }
