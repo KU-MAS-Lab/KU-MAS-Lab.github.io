@@ -14,14 +14,17 @@ permalink: /about/
 
   <p class="about-korean" lang="ko">MAS Lab은 방사선·광·초음파를 음향 기반 공학으로 연결해 생체의 구조와 기능, 질환 변화, 치료 및 자극 반응을 정량적으로 측정합니다. 반복 가능한 영상·바이오마커와 초음파 자극·치료 기술을 개발합니다.</p>
 
-  <section class="about-pipeline" aria-label="Research pipeline">
-    <div><span>01</span><strong>Energy &amp; stimulation</strong></div>
-    <i aria-hidden="true">→</i>
-    <div><span>02</span><strong>Acoustic waves</strong></div>
-    <i aria-hidden="true">→</i>
-    <div><span>03</span><strong>Systems &amp; signals</strong></div>
-    <i aria-hidden="true">→</i>
-    <div><span>04</span><strong>Quantitative insight</strong></div>
+  <section class="about-flow" aria-label="Engineering workflow">
+    <p class="eyebrow">THE ENGINEERING FLOW</p>
+    <div class="about-pipeline">
+      <div><span>01</span><strong>Deliver energy<br>or stimulation</strong></div>
+      <i aria-hidden="true">→</i>
+      <div><span>02</span><strong>Generate acoustic<br>waves</strong></div>
+      <i aria-hidden="true">→</i>
+      <div><span>03</span><strong>Acquire<br>signals</strong></div>
+      <i aria-hidden="true">→</i>
+      <div><span>04</span><strong>Quantify biological<br>response</strong></div>
+    </div>
   </section>
 
   <section class="about-section">
