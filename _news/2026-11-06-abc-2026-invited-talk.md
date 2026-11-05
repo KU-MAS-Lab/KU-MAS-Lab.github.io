@@ -1,6 +1,6 @@
 ---
 title: "Invited Talk at ABC 2026: Returning Four Years Later as a Speaker"
-date: 2026-11-06
+date: 2026-11-06 00:00:00 +0900
 subtitle: "From attending as a graduate student to returning as an invited speaker at the Advanced Biophotonics Conference."
 excerpt: "Prof. Seongwook Choi delivered an invited talk in the Optical Tomography and Tissue Optics session at ABC 2026 in Busan, reconnecting with the biophotonics community."
 image: "/assets/img/news/2026-11-06-abc2026-invited-talk.avif"
