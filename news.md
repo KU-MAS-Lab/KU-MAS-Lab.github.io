@@ -17,7 +17,7 @@ permalink: /news/
       </div>
     {% endif %}
     <div class="news-card-body">
-      <div class="news-date">{{ post.date | date: "%Y.%m.%d" }}</div>
+      <div class="news-date">{% if post.display_date %}{{ post.display_date }}{% else %}{{ post.date | date: "%Y.%m.%d" }}{% endif %}</div>
       <h3>{{ post.title }}</h3>
       <div class="muted">{{ post.excerpt | strip_html | truncatewords: 28 }}</div>
       <span class="news-read-more">Read story →</span>

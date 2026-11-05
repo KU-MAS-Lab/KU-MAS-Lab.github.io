@@ -1,9 +1,10 @@
 ---
 title: "Invited Talk at ABC 2026"
 date: 2026-11-06 00:00:00 +0900
+display_date: "2026.11.06"
 subtitle: "An invited presentation in the Optical Tomography and Tissue Optics session in Busan."
 excerpt: "Prof. Seongwook Choi delivered an invited talk in the Optical Tomography and Tissue Optics session at ABC 2026 in Busan, reconnecting with the biophotonics community."
-image: "/assets/img/news/2026-11-06-abc2026-invited-talk.jpg"
+image: "/assets/img/news/2026-11-06-abc2026-invited-talk-original.jpg"
 image_alt: "Prof. Seongwook Choi delivering an invited presentation on photoacoustic imaging at ABC 2026"
 image_caption: "Prof. Seongwook Choi presenting in the Optical Tomography and Tissue Optics session at ABC 2026 in Busan."
 ---
@@ -15,8 +16,8 @@ He presented his research in the **Optical Tomography and Tissue Optics** sessio
 The conference provided a valuable opportunity to exchange recent research developments, connect with researchers across the optics and biophotonics communities, and explore potential future collaborations.
 
 <figure class="news-inline-figure">
-  <a href="{{ '/assets/img/news/2026-11-06-abc2026-conference-portrait.jpg' | relative_url }}">
-    <img src="{{ '/assets/img/news/2026-11-06-abc2026-conference-portrait.jpg' | relative_url }}" alt="Prof. Seongwook Choi standing in front of the ABC 2026 conference program and venue map" loading="lazy">
+  <a href="{{ '/assets/img/news/2026-11-06-abc2026-conference-portrait-original.jpg' | relative_url }}">
+    <img src="{{ '/assets/img/news/2026-11-06-abc2026-conference-portrait-original.jpg' | relative_url }}" alt="Prof. Seongwook Choi standing in front of the ABC 2026 conference program and venue map" loading="eager" width="1536" height="1450">
   </a>
   <figcaption>At the ABC 2026 venue, Hanwha Resort Haeundae, Busan.</figcaption>
 </figure>
@@ -24,8 +25,8 @@ The conference provided a valuable opportunity to exchange recent research devel
 **The occasion was particularly meaningful:** at ABC 2022, Prof. Choi presented as a graduate student in the Young Investigator Award session. Four years later, returning to the conference as an invited speaker in the Optical Tomography and Tissue Optics session made the experience especially memorable.
 
 <figure class="news-inline-figure">
-  <a href="{{ '/assets/img/news/2026-11-06-abc2026-busan-view.jpg' | relative_url }}">
-    <img src="{{ '/assets/img/news/2026-11-06-abc2026-busan-view.jpg' | relative_url }}" alt="View of the Gwangan Bridge and waterfront skyline in Busan during ABC 2026" loading="lazy">
+  <a href="{{ '/assets/img/news/2026-11-06-abc2026-busan-view-original.jpg' | relative_url }}">
+    <img src="{{ '/assets/img/news/2026-11-06-abc2026-busan-view-original.jpg' | relative_url }}" alt="View of the Gwangan Bridge and waterfront skyline in Busan during ABC 2026" loading="eager" width="1536" height="1152">
   </a>
   <figcaption>A view of Busan's Gwangan Bridge during the conference.</figcaption>
 </figure>

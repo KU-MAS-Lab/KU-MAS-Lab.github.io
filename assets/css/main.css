@@ -1316,3 +1316,13 @@ h3 { font-size: 1.08rem; }
   .about-pipeline div { grid-template-columns: 2rem minmax(0, 1fr); }
   .about-pipeline br { display: none; }
 }
+
+
+/* News photography: keep the original aspect ratio and avoid cropping. */
+.news-article .news-hero-image img,
+.news-article .news-inline-figure img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: contain;
+}

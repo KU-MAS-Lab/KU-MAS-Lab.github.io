@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="news-article">
   <header class="news-article-header">
-    <p class="eyebrow">NEWS · {{ page.date | date: "%Y.%m.%d" }}</p>
+    <p class="eyebrow">NEWS · {% if page.display_date %}{{ page.display_date }}{% else %}{{ page.date | date: "%Y.%m.%d" }}{% endif %}</p>
     <h1>{{ page.title }}</h1>
     {% if page.subtitle %}<p class="news-article-subtitle">{{ page.subtitle }}</p>{% endif %}
   </header>
