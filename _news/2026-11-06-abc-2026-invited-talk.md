@@ -3,7 +3,7 @@ title: "Invited Talk at ABC 2026: Returning Four Years Later as a Speaker"
 date: 2026-11-06 00:00:00 +0900
 subtitle: "From attending as a graduate student to returning as an invited speaker at the Advanced Biophotonics Conference."
 excerpt: "Prof. Seongwook Choi delivered an invited talk in the Optical Tomography and Tissue Optics session at ABC 2026 in Busan, reconnecting with the biophotonics community."
-image: "/assets/img/news/2026-11-06-abc2026-invited-talk.avif"
+image: "/assets/img/news/2026-11-06-abc2026-invited-talk.jpg"
 image_alt: "Prof. Seongwook Choi delivering an invited presentation on photoacoustic imaging at ABC 2026"
 image_caption: "Prof. Seongwook Choi presenting in the Optical Tomography and Tissue Optics session at ABC 2026 in Busan."
 ---
@@ -15,8 +15,8 @@ He presented his research in the **Optical Tomography and Tissue Optics** sessio
 The conference provided a valuable opportunity to exchange recent research developments, connect with researchers across the optics and biophotonics communities, and explore potential future collaborations.
 
 <figure class="news-inline-figure">
-  <a href="{{ '/assets/img/news/2026-11-06-abc2026-conference-portrait.avif' | relative_url }}">
-    <img src="{{ '/assets/img/news/2026-11-06-abc2026-conference-portrait.avif' | relative_url }}" alt="Prof. Seongwook Choi standing in front of the ABC 2026 conference program and venue map" loading="lazy">
+  <a href="{{ '/assets/img/news/2026-11-06-abc2026-conference-portrait.jpg' | relative_url }}">
+    <img src="{{ '/assets/img/news/2026-11-06-abc2026-conference-portrait.jpg' | relative_url }}" alt="Prof. Seongwook Choi standing in front of the ABC 2026 conference program and venue map" loading="lazy">
   </a>
   <figcaption>At the ABC 2026 venue, Hanwha Resort Haeundae, Busan.</figcaption>
 </figure>
@@ -24,8 +24,8 @@ The conference provided a valuable opportunity to exchange recent research devel
 **The occasion was particularly meaningful:** four years ago, Prof. Choi attended the same conference as a graduate student. Returning this year as an invited speaker marked a memorable milestone in his academic journey.
 
 <figure class="news-inline-figure">
-  <a href="{{ '/assets/img/news/2026-11-06-abc2026-busan-view.avif' | relative_url }}">
-    <img src="{{ '/assets/img/news/2026-11-06-abc2026-busan-view.avif' | relative_url }}" alt="View of the Gwangan Bridge and waterfront skyline in Busan during ABC 2026" loading="lazy">
+  <a href="{{ '/assets/img/news/2026-11-06-abc2026-busan-view.jpg' | relative_url }}">
+    <img src="{{ '/assets/img/news/2026-11-06-abc2026-busan-view.jpg' | relative_url }}" alt="View of the Gwangan Bridge and waterfront skyline in Busan during ABC 2026" loading="lazy">
   </a>
   <figcaption>A view of Busan's Gwangan Bridge during the conference.</figcaption>
 </figure>
