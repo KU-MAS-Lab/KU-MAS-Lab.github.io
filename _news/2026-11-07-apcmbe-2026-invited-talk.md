@@ -4,14 +4,21 @@ date: 2026-11-07 00:00:00 +0900
 display_date: "2026.11.07"
 subtitle: "Sharing advances in photoacoustic imaging and exploring international research collaborations."
 excerpt: "Prof. Seongwook Choi delivered an invited talk at APCMBE 2026 in Daegu, sparking lively exchanges with researchers from across the Asia-Pacific region and conversations about future international collaborations."
-image: "/assets/img/news/2026-11-07-apcmbe2026-cover.webp"
-image_alt: "Prof. Seongwook Choi standing in front of the APCMBE 2026 conference backdrop in Daegu"
-image_caption: "At the 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering (APCMBE 2026), held at EXCO in Daegu, Korea, November 4–7, 2026."
+image: "/assets/img/news/2026-11-07-apcmbe2026-invited-presentation.jpg"
+image_alt: "Prof. Seongwook Choi delivering an invited presentation at the APCMBE and KOSOMBE 2026 conference"
+image_caption: "Prof. Seongwook Choi delivering an invited talk at APCMBE & KOSOMBE 2026, held at EXCO in Daegu, Korea."
 ---
 
 Prof. Seongwook Choi of **MAS Lab** delivered an **invited talk** at the **13th IFMBE Asian Pacific Conference on Medical & Biological Engineering (APCMBE 2026)**, held at EXCO in Daegu, Korea, from November 4 to 7, 2026.
 
 His talk introduced research on **photoacoustic computed tomography (PACT)** and its potential for multiparametric biomedical imaging, including in vivo contrast-enhanced imaging and the quantitative monitoring of vascular structure, oxygen saturation, and tumor-associated physiological changes.
+
+<figure class="news-inline-figure">
+  <a href="{{ '/assets/img/news/2026-11-07-apcmbe2026-cover.webp' | relative_url }}">
+    <img src="{{ '/assets/img/news/2026-11-07-apcmbe2026-cover.webp' | relative_url }}" alt="Prof. Seongwook Choi standing in front of the APCMBE 2026 conference backdrop in Daegu" loading="lazy" style="aspect-ratio: auto; object-fit: contain;">
+  </a>
+  <figcaption>At the APCMBE 2026 venue in Daegu.</figcaption>
+</figure>
 
 <figure class="news-inline-figure">
   <a href="{{ '/assets/img/news/2026-11-07-apcmbe2026-presentation-icg.webp' | relative_url }}">
