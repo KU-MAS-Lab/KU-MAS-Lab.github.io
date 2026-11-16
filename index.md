@@ -3,8 +3,8 @@ layout: home
 permalink: /
 ---
 
-<p class="intro"><strong>MAS Lab</strong> develops multimodal acoustic systems that connect radiation, light, and ultrasound to quantitative imaging, disease monitoring, and therapeutic stimulation. We integrate physics, instrumentation, signal/image processing, and AI to translate acoustic signals into reliable biomedical information.</p>
-<p class="ko-summary" lang="ko"><strong>MAS Lab (멀티모달 음향시스템 연구실)</strong>은 방사선·광·초음파를 이용하여 정량 영상, 질환 모니터링, 치료 및 자극을 구현하는 시스템을 연구합니다. 방사선 유도 음향영상과 광음향·초음파 영상을 중심으로, 반복 측정 가능한 바이오마커와 초음파 기반 자극·치료 기술까지 확장합니다.</p>
+<p class="intro"><strong>MAS Lab is a biomedical imaging research laboratory.</strong> We develop medical imaging technologies using ultrasound, light, and radiation to visualize structures and functions inside the body and measure changes in disease and treatment response. We also study ultrasound stimulation and therapy.</p>
+<p class="ko-summary" lang="ko"><strong>고려대학교 MAS Lab은 의료영상 연구실입니다.</strong> 초음파·빛·방사선을 활용해 몸속 구조와 기능을 영상화하고, 질환의 진행과 치료 반응을 수치로 살펴보는 기술을 연구합니다. 또한 초음파 자극과 치료 기술도 연구합니다.</p>
 
 <div class="section-head">
   <div>
