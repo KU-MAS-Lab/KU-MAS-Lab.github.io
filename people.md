@@ -6,7 +6,7 @@ permalink: /people/
 <div class="page">
 <p class="eyebrow">PEOPLE</p>
 # Our Team
-<p class="ko-summary" lang="ko">MAS Lab은 영상물리, 하드웨어, 신호·영상처리, AI, biomedical application이 서로 연결되는 연구를 함께 만들어갑니다.</p>
+<p class="ko-summary" lang="ko">MAS Lab은 의료영상 기술 개발을 중심으로 영상물리·하드웨어·신호 및 영상처리·AI를 연결합니다. 새로운 영상으로 생체 변화를 정량화하고 초음파 자극·치료 연구에도 도전합니다.</p>
 <div class="member-grid">
 {% assign sorted_members = site.members | sort: 'order' %}
 {% for member in sorted_members %}
@@ -36,7 +36,7 @@ permalink: /people/
     </p>
 
     <p>
-      Interested in imaging, AI, acoustics, or biomedical applications?
+      Interested in medical imaging, AI, instrumentation, or ultrasound therapeutics?
     </p>
 
     <p class="recruiting-ko">

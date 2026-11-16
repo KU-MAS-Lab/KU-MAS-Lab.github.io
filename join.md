@@ -28,38 +28,15 @@ permalink: /join/
   </section>
 
   <section class="join-hero">
-    <h1>We are looking for curious builders.</h1>
+    <h1>Build the next generation of biomedical imaging.</h1>
 
-    <p class="join-lead">
-      MAS Lab welcomes undergraduate researchers, M.S./Ph.D. students, and collaborators
-      who want to engineer biomedical imaging and acoustic-stimulation technologies and use them to quantitatively understand
-      disease progression, physiological change, and biological responses to treatment, stimulation, and rehabilitation.
-    </p>
+    <p class="join-lead"><strong>Medical imaging is our main research focus.</strong> MAS Lab welcomes undergraduate and graduate researchers who want to build ultrasound-, photoacoustic-, and radiation-based imaging technologies; improve them with signal processing and AI; and use quantitative images to understand disease and treatment response. We also explore ultrasound stimulation, neuromodulation, and therapeutic applications.</p>
 
     <div class="join-ko-intro" lang="ko">
-      <strong>학부연구생 및 대학원생을 모집합니다.</strong>
-      현재 전공이나 연구 경험이 MAS Lab의 연구와 완벽히 일치하지 않아도 괜찮습니다.
-      우리는 새로운 영상기술을 직접 개발하고,
-      이를 이용해 <strong>질병의 진행, 생리적 변화, 치료 및 자극에 대한 생체 반응을
-      정량적으로 이해하는 연구</strong>를 수행합니다.
-      <br><br>
-    
-      공학·물리 분야에 관심이 있다면
-      광음향·초음파·방사선음향 영상 시스템, 센서 및 계측, 신호·영상처리, AI 연구에 참여할 수 있습니다.
-      생명과학·보건·재활 분야에 관심이 있다면
-      뇌혈관 및 신경계 질환, 종양, biodynamics, 질병 기전 연구에 참여할 수 있습니다.
-      또한 초음파의 주파수·강도·펄스 조건을 설계하고 최적화하여 신경자극 효과를 비교하거나,
-      치료·재활 전후의 생체 반응을 정량적으로 모니터링하는 biomedical application을 함께 연구할 수 있습니다.
-      <br><br>
-    
-      <strong>새로운 기술을 만드는 것과, 그 기술로 새로운 생물학적 질문에 답하는 것</strong>
-      모두에 관심 있는 학생을 환영합니다.
-      <br><br>
-    
-      <strong>이수 추천 과목</strong>:
-      기초수리학, 보건물리학, 방사선과학, 신호및시스템, 센서및계측,
-      Computer Vision, AI, 전산및제도/CAD, 생리학, 신경과학, 해부학, 생물통계학 등.
-      모든 과목을 미리 이수할 필요는 없습니다.
+      <p><strong>MAS Lab은 의료영상 연구를 중심으로 함께할 학부연구생 및 대학원생을 모집합니다.</strong> 전공이나 이전 연구 경험이 완벽하게 일치하지 않아도 괜찮습니다.</p>
+      <p>주요 연구는 <strong>광음향·초음파·방사선 기반 의료영상 시스템 개발</strong>입니다. 영상장비와 센서를 직접 만들고, 신호·영상처리 및 AI를 활용해 몸속 구조와 생리적 변화를 영상화합니다. 이렇게 얻은 정보를 통해 질병의 진행과 치료 반응을 정량적으로 분석합니다.</p>
+      <p>이 기술을 바탕으로 초음파의 주파수·강도·펄스 조건을 최적화하고, 신경자극·치료·재활에 대한 생체 반응을 영상 및 생리신호로 평가하는 연구도 진행합니다. <strong>공학적 기술 개발이 중심</strong>이지만, 생명과학·보건·임상 문제에 관심 있는 학생도 환영합니다.</p>
+      <p><strong>이수 추천 과목:</strong> 기초수리학, 보건물리학, 방사선과학, 신호및시스템, 센서및계측, Computer Vision, AI, 전산및제도/CAD, 생리학, 신경과학, 해부학, 생물통계학 등. 모든 과목을 미리 이수할 필요는 없습니다.</p>
     </div>
   </section>
 
@@ -70,8 +47,7 @@ permalink: /join/
     <h2>Potential Project Tracks</h2>
 
     <p class="section-intro">
-      Students can participate in projects spanning the full imaging pipeline,
-      from physical system and stimulation-protocol development to quantitative biomedical applications.
+      Students can work across the medical imaging pipeline—from building ultrasound, photoacoustic, and radiation-based systems to image reconstruction, AI, quantitative disease monitoring, and ultrasound-guided stimulation applications.
     </p>
 
     <div class="project-track-grid">
@@ -93,12 +69,10 @@ permalink: /join/
         <div class="project-track-number">02</div>
         <h3>Signal &amp; Image Processing</h3>
         <p>
-          Acoustic, photoacoustic, and radiacoustic reconstruction,
-          signal processing, image enhancement, and quantitative analysis.
+          Medical image reconstruction from ultrasound, photoacoustic, and radiation-induced acoustic signals, plus signal processing, image enhancement, and quantitative analysis.
         </p>
         <p class="project-track-ko" lang="ko">
-          음향·광음향·방사선음향 신호의 재구성, 영상처리 및
-          정량 분석 방법을 개발합니다.
+          초음파·광음향·방사선 유도 음향 신호를 의료영상으로 재구성하고, 영상처리 및 정량 분석 방법을 개발합니다.
         </p>
       </div>
 
@@ -144,7 +118,7 @@ permalink: /join/
 
     <div class="interest-tags">
       <span>MATLAB / Python / C / CUDA</span>
-      <span>Biomedical Imaging</span>
+      <span>Medical / Biomedical Imaging</span>
       <span>Signal &amp; Image Processing</span>
       <span>Ultrasound / Photoacoustics</span>
       <span>Radiation Science</span>
@@ -172,7 +146,7 @@ permalink: /join/
 
       <div>
         <p class="section-kicker">HOW TO APPLY</p>
-        <h2>Interested in joining MAS Lab?</h2>
+        <h2>Interested in medical imaging research?</h2>
 
         <p>
           Undergraduate applicants can start by emailing a brief introduction and their research interests.

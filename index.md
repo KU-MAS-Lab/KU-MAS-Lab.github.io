@@ -3,8 +3,8 @@ layout: home
 permalink: /
 ---
 
-<p class="intro"><strong>MAS Lab is a biomedical imaging research laboratory.</strong> We develop medical imaging technologies using ultrasound, light, and radiation to visualize structures and functions inside the body and measure changes in disease and treatment response. We also study ultrasound stimulation and therapy.</p>
-<p class="ko-summary" lang="ko"><strong>고려대학교 MAS Lab은 의료영상 연구실입니다.</strong> 초음파·빛·방사선을 활용해 몸속 구조와 기능을 영상화하고, 질환의 진행과 치료 반응을 수치로 살펴보는 기술을 연구합니다. 또한 초음파 자극과 치료 기술도 연구합니다.</p>
+<p class="intro"><strong>We are a biomedical imaging laboratory at Korea University.</strong> We build medical imaging technologies based on ultrasound, light, and radiation to see inside the body and understand how it changes over time. Through physics, engineering, and AI, we develop quantitative imaging tools for studying disease and assessing treatment responses. Ultrasound stimulation and therapy are an important extension of our work.</p>
+<p class="ko-summary" lang="ko"><strong>고려대학교 MAS Lab은 의료영상 기술을 개발하는 연구실입니다.</strong> 초음파·빛·방사선을 이용해 혈관과 장기 등 몸속 구조와 생리적 변화를 영상화합니다. 물리·공학·AI를 바탕으로 질환의 진행 및 치료 반응을 반복 측정하고 정량화하며, 초음파 자극·치료 기술도 함께 연구합니다.</p>
 
 <div class="section-head">
   <div>
@@ -13,44 +13,45 @@ permalink: /
   </div>
   <a href="{{ '/research/' | relative_url }}">Research overview →</a>
 </div>
+<p class="focus-overview">Our work begins with <strong>medical imaging</strong>: developing new ways to see anatomy and physiology, then using AI and quantitative analysis to learn from those images. We also develop ultrasound technologies for stimulation and therapy.</p>
 
 <div class="focus-grid focus-grid-visual">
   <article class="focus-card focus-card-visual">
-    <img class="focus-image" src="{{ '/assets/img/research/xfelam-system.jpg' | relative_url }}" alt="X-ray free-electron laser induced acoustic microscopy system">
-    <div class="focus-body">
-      <div class="focus-number">01 · RADIATION ACOUSTICS</div>
-      <h3>Radiation-Induced Acoustic Imaging &amp; Dosimetry</h3>
-      <p>Acoustic detection and reconstruction of ionizing-radiation energy deposition for imaging, real-time dosimetry, and emerging radiation-acoustic modalities.</p>
-      <p class="card-ko" lang="ko">X-ray 및 치료 방사선의 에너지 침적에서 발생하는 음향신호를 검출하여 영상과 선량 정보로 복원합니다.</p>
-    </div>
-  </article>
-
-  <article class="focus-card focus-card-visual">
     <img class="focus-image" src="{{ '/assets/img/research/dlpact-wholebody.jpg' | relative_url }}" alt="3D whole-body photoacoustic images">
     <div class="focus-body">
-      <div class="focus-number">02 · ACOUSTIC BIOIMAGING</div>
+      <div class="focus-number">01 · PHOTOACOUSTIC & ULTRASOUND IMAGING</div>
       <h3>Photoacoustic &amp; Ultrasound Imaging</h3>
-      <p>Multimodal systems for structural, functional, and molecular imaging across preclinical and translational applications.</p>
-      <p class="card-ko" lang="ko">광음향·초음파를 이용해 혈관, 산소포화도, 체내 동태를 3차원으로 영상화합니다.</p>
+      <p>We develop 3D medical imaging systems using light and ultrasound to visualize blood vessels, tissue structures, oxygenation, and molecular or physiological changes.</p>
+      <p class="card-ko" lang="ko">광음향·초음파 의료영상으로 혈관과 조직 구조, 산소포화도, 약물·조영제의 체내 움직임을 3차원으로 관찰합니다.</p>
     </div>
   </article>
 
-  <article class="focus-card focus-card-visual">
+<article class="focus-card focus-card-visual">
+    <img class="focus-image" src="{{ '/assets/img/research/xfelam-system.jpg' | relative_url }}" alt="X-ray free-electron laser induced acoustic microscopy system">
+    <div class="focus-body">
+      <div class="focus-number">02 · RADIATION-BASED IMAGING</div>
+      <h3>Radiation-Induced Acoustic Imaging &amp; Dosimetry</h3>
+      <p>We investigate how ultrasound detection can visualize the energy deposited by X-rays and therapeutic radiation, with the goal of improving radiation imaging and dose monitoring.</p>
+      <p class="card-ko" lang="ko">X-ray 및 치료 방사선이 전달한 에너지를 초음파 신호로 검출하고 영상화하여 방사선 선량을 측정하는 기술을 개발합니다.</p>
+    </div>
+  </article>
+
+<article class="focus-card focus-card-visual">
     <img class="focus-image" src="{{ '/assets/img/research/tumor-progression.jpg' | relative_url }}" alt="Longitudinal disease monitoring and quantitative imaging biomarkers">
     <div class="focus-body">
-      <div class="focus-number">03 · QUANTITATIVE BIOMARKERS</div>
-      <h3>Disease Monitoring &amp; Quantitative Biomarkers</h3>
-      <p>Longitudinal imaging of vascular, physiological, molecular, and fluid-dynamic changes to derive repeatable biomarkers of disease progression and treatment response.</p>
-      <p class="card-ko" lang="ko">질환의 진행, 혈관·산소화·체액 변화, 약물 및 조영제 동태를 반복 측정하여 정량 바이오마커로 발전시킵니다.</p>
+      <div class="focus-number">03 · AI & QUANTITATIVE IMAGING</div>
+      <h3>Disease Monitoring &amp; Imaging Biomarkers</h3>
+      <p>We use repeated medical images, quantitative analysis, and AI to track changes in vessels, oxygenation, fluid movement, and drug distribution during disease and treatment.</p>
+      <p class="card-ko" lang="ko">의료영상으로 혈관·산소화·체액·약물 분포를 반복 관찰하고, 질병과 치료에 따른 변화를 정량 영상 바이오마커로 분석합니다.</p>
     </div>
   </article>
 
-  <article class="focus-card focus-card-visual">
+<article class="focus-card focus-card-visual">
     <img class="focus-image ultrasound-visual" src="{{ '/assets/img/research/ultrasound-stimulation-therapy.jpg' | relative_url }}" alt="Conceptual focused ultrasound stimulation and therapy with quantitative biological response monitoring">
     <div class="focus-body">
-      <div class="focus-number">04 · ACOUSTIC INTERVENTION</div>
+      <div class="focus-number">04 · ULTRASOUND THERAPEUTICS</div>
       <h3>Ultrasound Stimulation &amp; Therapy</h3>
-      <p>Engineering ultrasound exposure and monitoring strategies for neuromodulation, therapeutic stimulation, rehabilitation, and quantitative assessment of biological response.</p>
+      <p>We design ultrasound stimulation conditions and use imaging or physiological measurements to evaluate responses relevant to neuromodulation, therapy, and rehabilitation.</p>
       <p class="card-ko" lang="ko">초음파의 주파수·강도·펄스 조건을 공학적으로 설계하고, 신경자극·치료·재활에 대한 생체 반응을 정량적으로 평가합니다.</p>
     </div>
   </article>
@@ -155,4 +156,4 @@ permalink: /
   <h2>Publications</h2>
   <a href="{{ '/publications/' | relative_url }}">View all →</a>
 </div>
-<p class="muted">Our publication record spans radiation-induced acoustics, photoacoustic and ultrasound imaging, quantitative disease monitoring, and AI-enabled biomedical imaging.</p>
+<p class="muted">Our publications advance photoacoustic, ultrasound, and radiation-based biomedical imaging, along with AI-enabled reconstruction, quantitative biomarkers, and disease monitoring.</p>

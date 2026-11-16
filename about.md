@@ -8,61 +8,62 @@ permalink: /about/
 
   <header class="about-hero">
     <h1>Multimodal Acoustic Systems Laboratory</h1>
-    <p class="about-tagline">Engineering acoustic systems to measure, interpret, and influence biology.</p>
-    <p class="about-intro">We connect radiation, light, and ultrasound through a shared engineering framework—from energy delivery and wave generation to signal acquisition, image reconstruction, and quantitative validation.</p>
+    <p class="about-tagline">Biomedical Imaging, AI &amp; Therapeutics</p>
+    <p class="about-intro"><strong>MAS Lab is first and foremost a biomedical imaging research laboratory.</strong> We develop imaging technologies that use ultrasound, light, and radiation to see inside the body, measure physiological changes, and monitor disease. Our engineering approach brings together imaging hardware, signal and image processing, and AI. We also apply these capabilities to ultrasound stimulation and therapeutic research.</p>
   </header>
 
-  <p class="about-korean" lang="ko">MAS Lab은 방사선·광·초음파를 음향 기반 공학으로 연결해 생체의 구조와 기능, 질환 변화, 치료 및 자극 반응을 정량적으로 측정합니다. 반복 가능한 영상·바이오마커와 초음파 자극·치료 기술을 개발합니다.</p>
+  <p class="about-korean" lang="ko"><strong>MAS Lab은 의료영상 기술을 연구하는 연구실입니다.</strong> 광음향·초음파·방사선 기반 영상기술을 개발하여 몸속 구조와 생리적 변화를 살펴보고, AI와 영상처리 기술로 질환의 진행과 치료 반응을 정량화합니다. 이를 바탕으로 초음파 자극 및 치료 기술에도 연구를 확장하고 있습니다.</p>
 
   <section class="about-flow" aria-label="Engineering workflow">
-    <p class="eyebrow">THE ENGINEERING FLOW</p>
+    <p class="eyebrow">FROM PHYSICAL SIGNALS TO MEDICAL IMAGES</p>
     <div class="about-pipeline">
-      <div><span>01</span><strong>Deliver energy<br>or stimulation</strong></div>
+      <div><span>01</span><strong>Use ultrasound,<br>light or radiation</strong></div>
       <i aria-hidden="true">→</i>
-      <div><span>02</span><strong>Generate acoustic<br>waves</strong></div>
+      <div><span>02</span><strong>Detect echoes<br>and acoustic signals</strong></div>
       <i aria-hidden="true">→</i>
-      <div><span>03</span><strong>Acquire<br>signals</strong></div>
+      <div><span>03</span><strong>Reconstruct images<br>with physics &amp; AI</strong></div>
       <i aria-hidden="true">→</i>
-      <div><span>04</span><strong>Quantify biological<br>response</strong></div>
+      <div><span>04</span><strong>Measure disease<br>and treatment response</strong></div>
     </div>
+    <p class="about-flow-note">For ultrasound stimulation and therapy, we additionally design acoustic exposure and measure the resulting biological responses.</p>
   </section>
 
   <section class="about-section">
     <div class="about-section-heading">
       <p class="eyebrow">WHAT WE WORK ON</p>
       <h2>Four connected research directions</h2>
-      <p>Systems engineering is the common thread: we design physics, hardware, acquisition, and analysis together.</p>
+      <p>Medical imaging is our foundation. We build the systems, improve the images with computation and AI, and use them to investigate disease. Ultrasound stimulation and therapy extend this foundation.</p>
     </div>
 
     <div class="about-focus-grid">
       <article class="about-focus-card">
-        <span class="about-card-number">01 / RADIATION ACOUSTICS</span>
-        <h3>Radiation-induced acoustic imaging</h3>
-        <ul>
-          <li>Image ionizing-radiation energy deposition through acoustic sensing.</li>
-          <li>Develop quantitative dosimetry and radiation-acoustic systems.</li>
-        </ul>
-      </article>
-
-      <article class="about-focus-card">
-        <span class="about-card-number">02 / IMAGING</span>
+        <span class="about-card-number">01 / BIOMEDICAL IMAGING</span>
         <h3>Photoacoustic &amp; ultrasound imaging</h3>
         <ul>
-          <li>Build multimodal systems for structural, functional, and molecular imaging.</li>
-          <li>Improve acquisition, reconstruction, and image quality.</li>
+          <li>Build 3D photoacoustic and ultrasound systems to visualize anatomy, physiology, and molecular contrast.</li>
+          <li>Improve imaging hardware, acquisition, reconstruction, and image quality.</li>
         </ul>
       </article>
 
-      <article class="about-focus-card">
+<article class="about-focus-card">
+        <span class="about-card-number">02 / RADIATION-BASED IMAGING</span>
+        <h3>Radiation-induced acoustic imaging</h3>
+        <ul>
+          <li>Develop radiation-based imaging and monitor deposited energy using acoustic detection.</li>
+          <li>Engineer X-ray and radiotherapy-acoustic measurement systems for quantitative dosimetry.</li>
+        </ul>
+      </article>
+
+<article class="about-focus-card">
         <span class="about-card-number">03 / QUANTIFICATION</span>
         <h3>Disease monitoring &amp; biomarkers</h3>
         <ul>
-          <li>Track vascular, physiological, molecular, and fluid-dynamic changes.</li>
-          <li>Measure disease progression and treatment response over time.</li>
+          <li>Analyze repeated medical images of vessels, oxygenation, drug distribution, and fluid dynamics.</li>
+          <li>Develop quantitative imaging biomarkers of disease progression and treatment response.</li>
         </ul>
       </article>
 
-      <article class="about-focus-card">
+<article class="about-focus-card">
         <span class="about-card-number">04 / STIMULATION</span>
         <h3>Ultrasound stimulation &amp; therapy</h3>
         <ul>
@@ -76,13 +77,13 @@ permalink: /about/
   <section class="about-method">
     <div>
       <p class="eyebrow">HOW WE WORK</p>
-      <h2>From engineering design to biomedical evidence</h2>
+      <h2>From medical imaging systems to useful measurements</h2>
     </div>
     <ol class="about-method-list">
-      <li><strong>Frame the measurement.</strong> Define the biological question and the signal needed to answer it.</li>
-      <li><strong>Build the system.</strong> Co-design imaging or stimulation physics, hardware, and data acquisition.</li>
-      <li><strong>Make it quantitative.</strong> Develop signal processing, reconstruction, and AI-assisted analysis.</li>
-      <li><strong>Validate the result.</strong> Test accuracy, repeatability, and usefulness in biomedical studies.</li>
+      <li><strong>Start with a biomedical question.</strong> Decide what anatomical, physiological, or treatment-related change should be visualized and measured.</li>
+      <li><strong>Engineer the imaging system.</strong> Design ultrasound-, light-, or radiation-based instrumentation and data acquisition.</li>
+      <li><strong>Reconstruct and analyze the images.</strong> Combine signal processing, inverse reconstruction, and AI to obtain robust quantitative information.</li>
+      <li><strong>Validate biomedical relevance.</strong> Measure accuracy, repeatability, and usefulness for disease or treatment monitoring.</li>
     </ol>
     <p class="about-ai-note"><strong>Computational imaging and AI</strong> support denoising, reconstruction, segmentation, inverse problems, uncertainty estimation, and quantitative analysis across these directions.</p>
   </section>

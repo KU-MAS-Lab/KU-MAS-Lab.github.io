@@ -1326,3 +1326,18 @@ h3 { font-size: 1.08rem; }
   aspect-ratio: auto;
   object-fit: contain;
 }
+
+/* Biomedical imaging first: MAS Lab visual hierarchy */
+.hero-copy-block .hero-subtitle { margin-bottom: .35rem; }
+.hero-copy-block .hero-domain-line { margin: 0 0 1.15rem; color: var(--crimson); font-size: clamp(1.22rem, 2.3vw, 1.75rem); font-weight: 800; line-height: 1.32; letter-spacing: -.025em; }
+.hero-copy strong { color: #242424; }
+.hero-copy-ko strong { color: #383035; }
+.focus-overview { max-width: 940px; margin: .7rem 0 1.25rem; color: #555; font-size: 1rem; line-height: 1.7; }
+.about-flow-note { margin: .85rem 0 0; color: #666; font-size: .9rem; line-height: 1.6; }
+.research-pathway { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem .7rem; margin: 1rem 0 2.15rem; }
+.research-pathway span { padding: .45rem .82rem; border: 1px solid rgba(138,21,56,.18); border-radius: 999px; background: var(--crimson-soft); color: #6b1732; font-size: .85rem; font-weight: 700; }
+.research-pathway b { color: var(--crimson); font-size: 1.1rem; }
+.footer-research-tagline { margin-top: .2rem; color: #7d4356; font-size: .8rem; font-weight: 600; }
+.join-ko-intro p { margin: 0 0 1rem; }
+.join-ko-intro p:last-child { margin-bottom: 0; }
+@media (max-width: 560px) { .hero-copy-block .hero-domain-line { font-size: 1.23rem; } .research-pathway { gap: .4rem; } .research-pathway b { display: none; } .research-pathway span { font-size: .78rem; } }
