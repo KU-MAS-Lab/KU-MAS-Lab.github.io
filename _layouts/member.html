@@ -9,11 +9,12 @@ layout: default
       <div class="member-photo member-placeholder">{{ page.name | slice: 0 }}</div>
     {% endif %}
     <div class="member-identity">
-      <p class="eyebrow">PRINCIPAL INVESTIGATOR</p>
+      <p class="eyebrow">{% if page.status == "incoming" %}INCOMING · JANUARY 2027{% else %}PRINCIPAL INVESTIGATOR{% endif %}</p>
       <h1>{{ page.name }}</h1>
       <p class="member-role member-role-large">{{ page.role }}</p>
       {% if page.affiliation %}<p class="member-affiliation">{{ page.affiliation }}</p>{% endif %}
-      {% assign contact_email = page.email | default: site.email %}
+      {% assign contact_email = page.email %}
+      {% unless page.status == "incoming" %}{% assign contact_email = page.email | default: site.email %}{% endunless %}
       <div class="member-links">
         {% if contact_email %}<a href="mailto:{{ contact_email }}">Email</a>{% endif %}
         {% if page.website %}<a href="{{ page.website }}" target="_blank" rel="noopener">Personal website ↗</a>{% endif %}
