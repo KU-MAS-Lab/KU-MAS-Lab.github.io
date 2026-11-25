@@ -43,9 +43,6 @@ permalink: /people/
       {% endif %}
       <strong>{{ member.name }}</strong>
       <div class="member-role">{{ member.role }}</div>
-      <p class="incoming-affiliation">{{ member.affiliation }}</p>
-      {% if member.research_interests %}<p class="incoming-interest"><b>Research:</b> {{ member.research_interests }}</p>{% endif %}
-      {% if member.award %}<p class="incoming-award">{{ member.award }}</p>{% endif %}
     </a>
   {% endif %}
   {% endfor %}
