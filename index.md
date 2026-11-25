@@ -126,6 +126,8 @@ permalink: /
     <div class="collab-card collab-stanford"><img class="collab-logo" src="{{ '/assets/img/collaborators/stanford-university.png' | relative_url }}" alt="Stanford University logo"><span>Stanford University</span></div>
     <div class="collab-card collab-postech"><img class="collab-logo" src="{{ '/assets/img/collaborators/postech.png' | relative_url }}" alt="POSTECH logo"><span>POSTECH</span></div>
     <div class="collab-card collab-snuh"><img class="collab-logo" src="{{ '/assets/img/collaborators/snuh.png' | relative_url }}" alt="Seoul National University Hospital logo"><span>Seoul National University Hospital</span></div>
+    <a class="collab-card collab-cmc" href="https://www.cmcseoul.or.kr/" target="_blank" rel="noopener"><img class="collab-logo" src="https://tong.visitkorea.or.kr/cms/resource/24/3464124_image2_1.jpeg" alt="Seoul St. Mary's Hospital logo" loading="lazy"><span>Seoul St. Mary's Hospital</span></a>
+    <a class="collab-card collab-anam" href="https://anam.kumc.or.kr/" target="_blank" rel="noopener"><img class="collab-logo" src="https://chblob.icloudhospital.com/thumbnails/Korea-Univ-Anam-Hospital-logo-a9aa061c-aaf0-40fd-8666-57468112ca3c.webp?format=webp&amp;q=75&amp;w=96" alt="Korea University Anam Hospital logo" loading="lazy"><span>Korea University Anam Hospital</span></a>
   </div>
 </section>
 
