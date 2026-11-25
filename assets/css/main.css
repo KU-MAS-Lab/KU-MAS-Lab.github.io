@@ -1353,7 +1353,4 @@ h3 { font-size: 1.08rem; }
 .incoming-member-card .member-avatar { width: 100%; max-width: 225px; height: 240px; border-radius: .75rem; margin-bottom: .85rem; }
 .incoming-member-card .member-placeholder { background: linear-gradient(145deg,#f9f0f3,#f0dfe6); color: var(--crimson); font-size: 4.5rem; box-shadow: none; }
 .incoming-member-card .member-role { font-size: .83rem; font-weight: 600; color: var(--crimson); }
-.incoming-affiliation { font-size: .81rem; line-height: 1.45; color: #666; margin: .3rem 0 .5rem; }
-.incoming-interest { margin: auto 0 0; padding-top: .75rem; border-top: 1px solid var(--line); font-size: .78rem; line-height: 1.5; width: 100%; color: #444; }
-.incoming-award { font-size: .77rem; color: var(--crimson); margin: .6rem 0 0; }
 .recruiting-grid { margin-top: 2rem; }
