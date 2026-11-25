@@ -61,7 +61,7 @@ permalink: /
   <div>
     <span class="eyebrow">UNDERGRADUATE RESEARCH · JANUARY 2027</span>
     <h2>Undergraduate research opportunities — Winter 2027</h2>
-    <p lang="ko"><strong>2027년 1월 겨울방학부터 함께할 학부인턴생을 모집합니다.</strong>
+    <p lang="ko"><strong>2027년 1월 겨울방학부터 연구에 참여할 학부생을 모집합니다.</strong>
     모집 인원이 제한되어 중장기 연구 참여 희망자를 우선적으로 고려합니다.
     관심 있는 학생은 간단한 자기소개와 관심 분야를 이메일로 보내주세요. 지원 전 연구·진로 면담도 환영합니다.</p>
   </div>
