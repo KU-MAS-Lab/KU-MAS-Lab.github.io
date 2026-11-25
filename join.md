@@ -10,21 +10,23 @@ permalink: /join/
 
   <section class="join-section" id="winter-2027-internship" aria-labelledby="winter-internship-title">
     <p class="section-kicker">UNDERGRADUATE RESEARCH · JANUARY 2027</p>
-    <h2 id="winter-internship-title">2027년 겨울방학 학부인턴 모집</h2>
+    <h2 id="winter-internship-title">2027년 겨울방학 학부생 연구참여 모집</h2>
     <div lang="ko">
-      <p>MAS Lab에서 <strong>2027년 1월 겨울방학부터 연구에 참여할 학부인턴생</strong>을 모집합니다.
+      <p>MAS Lab에서 <strong>2027년 1월 겨울방학부터 연구에 참여할 학부생</strong>을 모집합니다.
       연구실의 연구에 관심이 있다면 간단한 자기소개와 관심 분야를 적어
       <a href="mailto:{{ site.email }}">{{ site.email }}</a>로 연락해 주세요.</p>
       <p>모집 인원이 제한되어 있어, 방학 중 단기 체험보다는 <strong>중장기적으로 연구에 참여하고 싶은 학생을 우선적으로 고려합니다.</strong>
       구체적인 참여 기간과 일정은 면담을 통해 함께 논의할 수 있습니다.</p>
-      <p>당장 인턴 참여를 계획하고 있지 않더라도, 연구실이나 연구·진로에 관해 궁금한 점이 있다면 편하게 면담을 요청해 주세요.</p>
+      <p>당장 연구참여를 계획하고 있지 않더라도, 연구실이나 연구·진로에 관해 궁금한 점이 있다면 편하게 면담을 요청해 주세요.</p>
+      <p><strong>참여 조건 안내:</strong> 방학 중 단기 연구참여는 연구 방법을 배우고 실험·분석 과정을 경험하는 교육 중심 활동으로 운영하며, 급여와 숙소는 제공되지 않습니다. 중장기 연구참여의 기간·활동 내용 및 지원 조건은 면담을 통해 별도로 안내합니다.</p>
     </div>
-    <p class="join-ko-text" lang="en">We welcome undergraduate interns to begin research in January 2027.
+    <p class="join-ko-text" lang="en">We welcome undergraduate students interested in research participation beginning in January 2027.
       If interested, please email a brief introduction and your research interests to
       <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
       As places are limited, priority will be given to students interested in sustained research participation beyond a short winter placement.
       The duration and schedule can be discussed at a meeting.
-      You are also welcome to get in touch for an informal conversation about our research or your academic interests, even if you are not currently planning an internship.</p>
+      Short-term participation during the winter break is intended primarily for learning research methods and gaining hands-on experience; no stipend or accommodation is provided. Terms for longer-term participation will be discussed separately.
+      You are also welcome to get in touch for an informal conversation about our research or your academic interests, even if you are not currently planning to participate in research.</p>
   </section>
 
   <section class="join-hero">
