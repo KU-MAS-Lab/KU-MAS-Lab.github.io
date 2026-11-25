@@ -6,6 +6,7 @@ order: 4
 status: incoming
 start: January 2027
 research_interests: AI for Photoacoustic and Ultrasound Imaging
+award: Best Poster Presentation Award · APCMBE/KOSOMBE 2026
 ---
 
 ## Research Interests
