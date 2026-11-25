@@ -194,6 +194,14 @@ permalink: /research/
     <a class="collab-card collab-snuh" href="https://www.snuh.org/" target="_blank" rel="noopener">
       <img class="collab-logo" src="{{ '/assets/img/collaborators/snuh.png' | relative_url }}" alt="Seoul National University Hospital logo">
     </a>
+    <a class="collab-card collab-cmc" href="https://www.cmcseoul.or.kr/" target="_blank" rel="noopener" aria-label="The Catholic University of Korea Seoul St. Mary's Hospital">
+      <img class="collab-logo" src="https://tong.visitkorea.or.kr/cms/resource/24/3464124_image2_1.jpeg" alt="Seoul St. Mary's Hospital logo" loading="lazy">
+      <span>Seoul St. Mary's Hospital</span>
+    </a>
+    <a class="collab-card collab-anam" href="https://anam.kumc.or.kr/" target="_blank" rel="noopener" aria-label="Korea University Anam Hospital">
+      <img class="collab-logo" src="https://chblob.icloudhospital.com/thumbnails/Korea-Univ-Anam-Hospital-logo-a9aa061c-aaf0-40fd-8666-57468112ca3c.webp?format=webp&amp;q=75&amp;w=96" alt="Korea University Anam Hospital logo" loading="lazy">
+      <span>Korea University Anam Hospital</span>
+    </a>
   </div>
   <p class="collab-disclaimer">Institution names indicate research relationships or networks at the project/researcher level and do not imply institutional endorsement.</p>
 </section>
