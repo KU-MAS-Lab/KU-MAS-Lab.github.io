@@ -722,6 +722,9 @@ h3 { font-size: 1.08rem; }
 .collab-stanford .collab-logo { max-height: 72px; }
 .collab-postech .collab-logo { max-width: 220px; }
 .collab-snuh .collab-logo { max-width: 190px; }
+.collab-cmc .collab-logo { max-width: 210px; max-height: 58px; }
+.collab-anam .collab-logo { max-width: 110px; max-height: 72px; }
+@media (min-width: 1100px) { .collab-grid { grid-template-columns: repeat(5, minmax(0,1fr)); } }
 .collab-disclaimer {
   margin-top: .75rem;
   color: #8a8a8a;
