@@ -10,6 +10,7 @@ permalink: /people/
 <div class="member-grid">
 {% assign sorted_members = site.members | sort: 'order' %}
 {% for member in sorted_members %}
+{% unless member.status == 'incoming' %}
   <a class="member-card" href="{{ member.url | relative_url }}">
     {% assign card_photo = member.card_photo | default: member.photo %}
     {% if card_photo %}
@@ -23,7 +24,34 @@ permalink: /people/
       <div class="member-hobbies"><span aria-hidden="true">⚡</span>{{ member.hobbies }}</div>
     {% endif %}
   </a>
+{% endunless %}
 {% endfor %}
+</div>
+
+<section class="incoming-team" aria-labelledby="incoming-team-title">
+  <p class="eyebrow">JOINING JANUARY 2027</p>
+  <h2 id="incoming-team-title">Incoming Undergraduate Researchers</h2>
+  <p class="incoming-team-intro">Our incoming undergraduate researchers will join MAS Lab in Winter 2027.</p>
+  <div class="member-grid">
+  {% for member in sorted_members %}
+  {% if member.status == 'incoming' %}
+    <a class="member-card incoming-member-card" href="{{ member.url | relative_url }}">
+      {% if member.photo %}
+        <img class="member-avatar" src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
+      {% else %}
+        <div class="member-avatar member-placeholder" aria-label="Photo coming soon">{{ member.name | slice: 0 }}</div>
+      {% endif %}
+      <strong>{{ member.name }}</strong>
+      <div class="member-role">{{ member.role }}</div>
+      <p class="incoming-affiliation">{{ member.affiliation }}</p>
+      {% if member.research_interests %}<p class="incoming-interest"><b>Research:</b> {{ member.research_interests }}</p>{% endif %}
+      {% if member.award %}<p class="incoming-award">{{ member.award }}</p>{% endif %}
+    </a>
+  {% endif %}
+  {% endfor %}
+  </div>
+</section>
+<div class="member-grid recruiting-grid">
   <div class="member-card recruiting-card">
 
   <div class="member-info">
